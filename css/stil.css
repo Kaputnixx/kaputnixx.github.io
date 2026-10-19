@@ -344,3 +344,188 @@ button {
   padding: 0;
   list-style: none;
 }
+
+/* ---------- 4 Startseite: Vollbild-Diashow ---------- */
+body.start {
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
+}
+
+body.start main {
+  position: relative;
+  flex: 1 1 auto;
+}
+
+body.start .kopf {
+  position: absolute;
+  inset: 0 0 auto 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+}
+
+body.start .fuss {
+  position: absolute;
+  inset: auto 0 0 0;
+  z-index: 10;
+  margin: 0;
+  padding: 0.3rem var(--abstand);
+  border: 0;
+  background: transparent;
+  color: rgba(228, 228, 231, 0.75);
+  font-size: 0.8rem;
+}
+
+.diashow {
+  --ueberblendung: 1400ms;
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  background: #000;
+  touch-action: pan-y;
+}
+
+.buehne {
+  position: absolute;
+  inset: 0;
+}
+
+.folie {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: opacity var(--ueberblendung) ease;
+}
+
+.folie.aktiv {
+  z-index: 2;
+  opacity: 1;
+}
+
+.folie.vorher {
+  z-index: 1;
+  opacity: 1;
+  transition: none;
+}
+
+.folie picture,
+.folie img {
+  width: 100%;
+  height: 100%;
+}
+
+.folie img {
+  object-fit: cover;
+}
+
+.folie.passend img {
+  object-fit: contain;
+}
+
+.mit-zoom .folie.aktiv img,
+.mit-zoom .folie.vorher img {
+  animation: sanft-zoomen var(--folien-dauer, 8s) linear forwards;
+}
+
+.mit-zoom.pausiert .folie img {
+  animation-play-state: paused;
+}
+
+@keyframes sanft-zoomen {
+  from { transform: scale(1); }
+  to { transform: scale(1.06); }
+}
+
+.diashow-unten {
+  position: absolute;
+  inset: auto 0 0 0;
+  z-index: 5;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 4rem var(--abstand) 2.4rem;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6));
+  pointer-events: none;
+}
+
+.diashow-unten > * {
+  pointer-events: auto;
+}
+
+.folien-titel {
+  color: #fff;
+  font-size: 0.95rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.8);
+  padding: 0.5rem 0;
+}
+
+.folien-titel:hover {
+  color: var(--akzent-hell);
+}
+
+.steuerung {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.zaehler {
+  margin-right: 0.5rem;
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 0.85rem;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.1em;
+}
+
+.diashow-knopf {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.35);
+  color: #fff;
+  cursor: pointer;
+}
+
+.diashow-knopf:hover {
+  background: rgba(0, 0, 0, 0.65);
+  border-color: rgba(255, 255, 255, 0.35);
+}
+
+.diashow-leer {
+  display: grid;
+  place-content: center;
+  justify-items: center;
+  gap: 1rem;
+  height: 100%;
+  color: var(--text-leise);
+}
+
+@media (max-width: 42rem) {
+  .diashow-unten {
+    flex-direction: column;
+    align-items: flex-start;
+    padding-bottom: 2.6rem;
+  }
+
+  .steuerung {
+    align-self: flex-end;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .folie {
+    transition: none;
+  }
+
+  .mit-zoom .folie img {
+    animation: none !important;
+  }
+}

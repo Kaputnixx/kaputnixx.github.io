@@ -165,3 +165,36 @@ start().catch((fehler) => {
   const hinweis = el("p", { klasse: "fehler", role: "alert" }, "Die Seite konnte nicht geladen werden. Bitte über einen Webserver öffnen (siehe README) und die Seite neu laden.");
   document.body.prepend(hinweis);
 });
+
+/**
+ * Baut ein <picture> mit WebP und JPEG-Rückfall.
+ * `bild` stammt aus inhalt/galerien-daten.json, `sizes` sagt dem Browser,
+ * wie breit das Bild angezeigt wird (so lädt er nur die passende Größe).
+ */
+export function bildElement(bild, { sizes, eifrig = false, wichtig = false, alt = bild.alt, klasse } = {}) {
+  const srcset = (liste) => liste.map((v) => `${v.pfad} ${v.breite}w`).join(", ");
+  const vorgabe = bild.jpeg[Math.min(1, bild.jpeg.length - 1)];
+  return el(
+    "picture",
+    {},
+    el("source", { type: "image/webp", srcset: srcset(bild.webp), sizes }),
+    el("img", {
+      src: vorgabe.pfad,
+      srcset: srcset(bild.jpeg),
+      sizes,
+      alt,
+      width: bild.breite,
+      height: bild.hoehe,
+      loading: eifrig ? "eager" : "lazy",
+      fetchpriority: wichtig ? "high" : null,
+      decoding: "async",
+      klasse,
+    }),
+  );
+}
+
+/** Galerien aus inhalt/galerien.json mit den Bildern aus galerien-daten.json verbinden. */
+export async function ladeGalerien() {
+  const [konfig, daten] = await Promise.all([ladeJson("inhalt/galerien.json"), ladeJson("inhalt/galerien-daten.json")]);
+  return konfig.galerien.map((g) => ({ ...g, bilder: daten.galerien[g.id]?.bilder ?? [], titelbilder: daten.galerien.titelbilder?.bilder ?? [] }));
+}
