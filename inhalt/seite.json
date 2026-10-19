@@ -1,0 +1,19 @@
+{
+  "name": "Specktrumgrafie",
+  "untertitel": "[HIER EINTRAGEN: Untertitel, z. B. Fotografie aus Landschaft, Natur und Alltag]",
+  "navigation": [
+    { "text": "Galerien", "ziel": "galerien.html" },
+    { "text": "Über mich", "ziel": "ueber-mich.html" },
+    { "text": "Kontakt", "ziel": "kontakt.html" }
+  ],
+  "fusszeile": [
+    { "text": "Impressum", "ziel": "impressum.html" },
+    { "text": "Datenschutz", "ziel": "datenschutz.html" }
+  ],
+  "diashow": {
+    "max_bilder": 12,
+    "dauer_ms": 6000,
+    "ueberblendung_ms": 1400,
+    "zoom": true
+  }
+}

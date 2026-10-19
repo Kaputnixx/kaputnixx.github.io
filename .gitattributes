@@ -1,0 +1,9 @@
+# Zeilenenden immer LF, Dateien UTF-8
+* text=auto eol=lf
+
+# Bilder und andere Binärdateien nie umwandeln
+*.jpg  binary
+*.jpeg binary
+*.png  binary
+*.webp binary
+*.ico  binary

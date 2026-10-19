@@ -1,0 +1,19 @@
+{
+  "inhaber": {
+    "name": "[HIER EINTRAGEN: Vor- und Nachname]",
+    "email_lokal": "[HIER EINTRAGEN: E-Mail, Teil vor dem @]",
+    "email_domain": "[HIER EINTRAGEN: E-Mail, Teil nach dem @]",
+    "anschrift": "[HIER EINTRAGEN: Straße Hausnummer, PLZ Ort]"
+  },
+  "impressum_voll": false,
+  "ueber_mich": [
+    "[HIER EINTRAGEN: Ein paar Sätze über dich: Wer fotografiert hier, seit wann, was begeistert dich?]",
+    "[HIER EINTRAGEN: Womit fotografierst du (Kamera, Objektive), wie entstehen die Bilder?]"
+  ],
+  "personen_hinweis": "Personen auf den Bildern haben der Veröffentlichung zugestimmt. Wer ein Bild entfernt haben möchte, meldet sich bitte über die Kontaktseite – das Bild wird dann zügig entfernt.",
+  "kontakt_einleitung": "Fragen, Anregungen oder Wünsche zu einem Bild? Schreib mir gern eine E-Mail.",
+  "kontakt_links": [],
+  "kontakt_links_beispiel": [
+    { "text": "Instagram", "ziel": "https://www.instagram.com/DEIN-NAME/" }
+  ]
+}

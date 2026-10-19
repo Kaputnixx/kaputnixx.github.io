@@ -1,0 +1,14 @@
+# Originalfotos gehören NIE ins öffentliche Repo
+# (sie enthalten Metadaten wie Standort und sind in voller Größe)
+fotos-quelle/
+
+# Python
+__pycache__/
+*.pyc
+
+# Betriebssystem / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
