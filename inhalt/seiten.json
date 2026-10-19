@@ -1,8 +1,8 @@
 {
   "inhaber": {
-    "name": "[HIER EINTRAGEN: Vor- und Nachname]",
-    "email_lokal": "[HIER EINTRAGEN: E-Mail, Teil vor dem @]",
-    "email_domain": "[HIER EINTRAGEN: E-Mail, Teil nach dem @]",
+    "name": "Sebastian Constantin",
+    "email_lokal": "sebastian.constantin.sc",
+    "email_domain": "gmail.com",
     "anschrift": "[HIER EINTRAGEN: Straße Hausnummer, PLZ Ort]"
   },
   "impressum_voll": false,

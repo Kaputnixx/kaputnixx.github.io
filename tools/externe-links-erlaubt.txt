@@ -10,3 +10,4 @@
 #
 # Hier den Freigabe-Link der geschlossenen Galerie "Tischtennis" eintragen,
 # sobald er in inhalt/galerien.json steht:
+https://drive.google.com/drive/folders/1vtViRTuW_kVBNHQN1k7I-B1rdAqiBbms
