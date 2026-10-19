@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <script>
+    // 404-Seiten werden unter beliebigen Adressen ausgeliefert: Basisadresse setzen,
+    // damit relative Pfade stimmen (Projektseite auf github.io: /<Repo>/, sonst /).
+    (function () {
+      var teile = location.pathname.split("/");
+      var basis = location.hostname.slice(-10) === ".github.io" && teile[1] ? "/" + teile[1] + "/" : "/";
+      var b = document.createElement("base");
+      b.href = basis;
+      document.head.insertBefore(b, document.head.firstChild);
+    })();
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Seite nicht gefunden</title>
+  <meta name="description" content="Diese Seite gibt es nicht.">
+  <meta name="theme-color" content="#0b0b0c">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/stil.css">
+  <link rel="modulepreload" href="js/gemeinsam.js">
+  <link rel="preload" href="inhalt/seite.json" as="fetch" crossorigin>
+  <script type="module" src="js/gemeinsam.js"></script>
+</head>
+<body>
+  <main id="inhalt" class="seite">
+    <h1>Seite nicht gefunden</h1>
+    <p>Diese Adresse gibt es nicht (mehr). Vielleicht hilft einer dieser Wege:</p>
+    <ul class="linkliste">
+      <li><a class="knopf" href="index.html">Zur Startseite</a></li>
+      <li><a class="knopf" href="galerien.html">Zu den Galerien</a></li>
+    </ul>
+  </main>
+  <noscript>
+    <p class="fehler">Diese Seite braucht JavaScript, um Bilder und Texte anzuzeigen.</p>
+    <p class="fuss"><a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></p>
+  </noscript>
+</body>
+</html>

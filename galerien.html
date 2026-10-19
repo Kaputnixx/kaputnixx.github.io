@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Galerien</title>
+  <meta name="description" content="Alle Fotogalerien im Überblick.">
+  <meta name="theme-color" content="#0b0b0c">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/stil.css">
+  <link rel="modulepreload" href="js/gemeinsam.js">
+  <link rel="preload" href="inhalt/seite.json" as="fetch" crossorigin>
+  <link rel="preload" href="inhalt/galerien.json" as="fetch" crossorigin>
+  <link rel="preload" href="inhalt/galerien-daten.json" as="fetch" crossorigin>
+  <script type="module" src="js/galerien.js"></script>
+</head>
+<body>
+  <main id="inhalt" class="seite breit">
+    <h1>Galerien</h1>
+    <ul class="kacheln" id="kacheln"></ul>
+  </main>
+  <noscript>
+    <p class="fehler">Diese Seite braucht JavaScript, um Bilder und Texte anzuzeigen.</p>
+    <p class="fuss"><a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></p>
+  </noscript>
+</body>
+</html>

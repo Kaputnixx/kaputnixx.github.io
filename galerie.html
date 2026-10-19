@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Galerie</title>
+  <meta name="description" content="Eine Fotogalerie mit Großansicht.">
+  <meta name="theme-color" content="#0b0b0c">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/stil.css">
+  <link rel="modulepreload" href="js/gemeinsam.js">
+  <link rel="preload" href="inhalt/seite.json" as="fetch" crossorigin>
+  <script type="module" src="js/galerie.js"></script>
+</head>
+<body>
+  <main id="inhalt" class="seite breit">
+    <p class="zurueck"><a href="galerien.html">← Alle Galerien</a></p>
+    <h1 id="titel">Galerie</h1>
+    <p class="leise" id="beschreibung"></p>
+    <ul class="raster" id="raster" aria-label="Bilder der Galerie"></ul>
+  </main>
+  <noscript>
+    <p class="fehler">Diese Seite braucht JavaScript, um Bilder und Texte anzuzeigen.</p>
+    <p class="fuss"><a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></p>
+  </noscript>
+</body>
+</html>
