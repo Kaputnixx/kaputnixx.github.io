@@ -529,3 +529,253 @@ body.start .fuss {
     animation: none !important;
   }
 }
+
+/* ---------- 5 Galerien ---------- */
+.kacheln {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
+  gap: clamp(0.75rem, 2vw, 1.25rem);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.kachel-link {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  border-radius: var(--radius);
+  background: var(--flaeche);
+  color: #fff;
+  text-decoration: none;
+}
+
+.kachel-bild {
+  display: block;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+}
+
+.kachel-bild img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s ease, filter 0.4s ease;
+}
+
+.kachel-text {
+  position: absolute;
+  inset: auto 0 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  padding: 2.5rem 1rem 0.9rem;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75));
+}
+
+.kachel-titel {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 1.1rem;
+  letter-spacing: 0.04em;
+}
+
+.kachel-schloss {
+  display: inline-flex;
+  color: var(--akzent);
+}
+
+.kachel-zusatz {
+  color: rgba(255, 255, 255, 0.78);
+  font-size: 0.85rem;
+}
+
+a.kachel-link:hover .kachel-bild img,
+a.kachel-link:focus-visible .kachel-bild img {
+  transform: scale(1.05);
+  filter: brightness(0.7);
+}
+
+.kachel.gesperrt .kachel-bild img {
+  filter: brightness(0.5) saturate(0.6);
+}
+
+.kachel.gesperrt .kachel-link {
+  cursor: default;
+}
+
+/* Raster: Zeilen gleicher Höhe, Reihenfolge bleibt wie in der Datei.
+   Jedes Bild kennt sein Seitenverhältnis (--verh), darum gibt es keine Layout-Sprünge. */
+.raster {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.raster::after {
+  content: "";
+  flex: 1000 1 0;
+}
+
+.raster-eintrag {
+  --zeile: 10rem;
+  flex: calc(var(--verh) * 100) 1 calc(var(--verh) * var(--zeile));
+  min-width: 0;
+}
+
+@media (min-width: 48rem) {
+  .raster-eintrag {
+    --zeile: 15rem;
+  }
+}
+
+.raster-link {
+  display: block;
+  overflow: hidden;
+  border-radius: 2px;
+  background: var(--flaeche);
+  cursor: zoom-in;
+}
+
+.raster-link img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: var(--verh);
+  object-fit: cover;
+  transition: transform 0.5s ease, filter 0.3s ease;
+}
+
+.raster-link:hover img,
+.raster-link:focus-visible img {
+  transform: scale(1.03);
+  filter: brightness(0.85);
+}
+
+/* ---------- 6 Lightbox ---------- */
+html.lb-offen {
+  overflow: hidden;
+}
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: #000;
+  color: #fff;
+  overflow: hidden;
+}
+
+.lightbox::backdrop {
+  background: #000;
+}
+
+.lb-buehne {
+  position: absolute;
+  inset: 0 0 4.5rem 0;
+}
+
+.lb-buehne picture {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.lb-buehne img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.lb-knopf {
+  position: absolute;
+  z-index: 2;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.45);
+  color: #fff;
+  cursor: pointer;
+}
+
+.lb-knopf:hover {
+  background: rgba(0, 0, 0, 0.75);
+  border-color: rgba(255, 255, 255, 0.35);
+}
+
+.lb-zu {
+  top: 0.75rem;
+  right: 0.75rem;
+}
+
+.lb-zurueck,
+.lb-weiter {
+  top: calc(50% - 2.25rem);
+}
+
+.lb-zurueck {
+  left: 0.75rem;
+}
+
+.lb-weiter {
+  right: 0.75rem;
+}
+
+.lb-fuss {
+  position: absolute;
+  inset: auto 0 0 0;
+  z-index: 1;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: 1.25rem;
+  min-height: 4.5rem;
+  padding: 0.9rem 4.5rem;
+  font-size: 0.95rem;
+}
+
+.lb-zaehler {
+  color: rgba(255, 255, 255, 0.7);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.1em;
+  white-space: nowrap;
+}
+
+.lb-text {
+  margin: 0;
+  max-width: 60ch;
+}
+
+@media (max-width: 42rem) {
+  .lb-fuss {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.2rem;
+    padding: 0.6rem 1rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .kachel-bild img,
+  .raster-link img {
+    transition: none;
+  }
+
+  a.kachel-link:hover .kachel-bild img,
+  .raster-link:hover img {
+    transform: none;
+  }
+}
