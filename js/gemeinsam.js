@@ -1,7 +1,7 @@
 // Gemeinsamer Code für alle Seiten: lädt inhalt/seite.json, baut Kopf- und
 // Fußzeile, setzt den Seitentitel und füllt die Platzhalterfelder.
-// Kein Netz, keine Cookies, kein localStorage: es werden nur Dateien dieser
-// Seite gelesen.
+// Kein Netz, keine Cookies, nichts im Browser-Speicher: es werden nur Dateien
+// dieser Seite gelesen.
 
 const zwischenspeicher = new Map();
 
