@@ -83,6 +83,16 @@ function baueKopf(daten) {
   );
 }
 
+/**
+ * Die Fußzeile bleibt verborgen, bis der Inhalt steht: So springt sie nicht nach unten, wenn
+ * Bilder nachgeladen werden (kein Layout-Sprung). Seiten mit nachgeladenem Inhalt
+ * (`<main data-async>`) rufen dies selbst auf, alle anderen übernimmt `start()`.
+ */
+export function fussZeigen() {
+  const fuss = document.querySelector("footer.fuss");
+  if (fuss) fuss.hidden = false;
+}
+
 function baueFuss(daten) {
   const links = el(
     "ul",
@@ -91,7 +101,7 @@ function baueFuss(daten) {
   );
   return el(
     "footer",
-    { klasse: "fuss" },
+    { klasse: "fuss", hidden: true },
     el("p", { klasse: "fuss-name" }, `© ${new Date().getFullYear()} ${daten.name}`, istPlatzhalter(daten.untertitel) ? null : ` · ${daten.untertitel}`),
     el("nav", { "aria-label": "Rechtliches" }, links),
   );
@@ -154,9 +164,19 @@ async function start() {
   const seitenTitel = document.title;
   document.title = document.body.dataset.titelNurName === undefined ? `${seitenTitel} – ${daten.name}` : daten.name;
   const sprung = el("a", { klasse: "sprunglink", href: "#inhalt", text: "Zum Inhalt springen" });
-  document.body.prepend(sprung, baueKopf(daten));
-  document.body.append(baueFuss(daten));
+  // Kopf und Fuß stehen als leere Elemente schon im HTML und halten den Platz frei (kein Springen beim Laden).
+  const kopf = baueKopf(daten);
+  const fuss = baueFuss(daten);
+  const kopfAlt = document.querySelector("header.kopf");
+  const fussAlt = document.querySelector("footer.fuss");
+  if (kopfAlt) kopfAlt.replaceWith(kopf);
+  else document.body.prepend(kopf);
+  if (fussAlt) fussAlt.replaceWith(fuss);
+  else document.body.append(fuss);
+  document.body.prepend(sprung);
   await fuelleSeitentexte();
+  if (!document.querySelector("[data-async]")) fussZeigen();
+  setTimeout(fussZeigen, 4000); // Sicherheitsnetz, falls ein Skript scheitert (Impressum muss erreichbar bleiben)
   document.dispatchEvent(new CustomEvent("specktrum:bereit", { detail: daten }));
 }
 
@@ -164,6 +184,7 @@ start().catch((fehler) => {
   console.error(fehler);
   const hinweis = el("p", { klasse: "fehler", role: "alert" }, "Die Seite konnte nicht geladen werden. Bitte über einen Webserver öffnen (siehe README) und die Seite neu laden.");
   document.body.prepend(hinweis);
+  fussZeigen();
 });
 
 /**

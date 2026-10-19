@@ -1,7 +1,7 @@
 // Eine Galerie als ruhiges Raster (Zeilen gleicher Höhe) mit Lightbox.
 // Aufruf: galerie.html?name=<id aus inhalt/galerien.json>
 
-import { ladeGalerien, el, bildElement } from "./gemeinsam.js";
+import { ladeGalerien, el, bildElement, fussZeigen } from "./gemeinsam.js";
 import { oeffneLightbox } from "./lightbox.js";
 
 const GROESSEN = "(min-width: 48rem) 33vw, 60vw";
@@ -45,4 +45,4 @@ async function start(seitenDaten) {
   raster.replaceChildren(...links);
 }
 
-document.addEventListener("specktrum:bereit", (e) => start(e.detail).catch(console.error), { once: true });
+document.addEventListener("specktrum:bereit", (e) => start(e.detail).catch(console.error).finally(fussZeigen), { once: true });

@@ -1,6 +1,6 @@
 // Galerieübersicht: eine Kachel pro Galerie, dazu die externe, geschlossene Galerie.
 
-import { ladeGalerien, el, bildElement, istPlatzhalter } from "./gemeinsam.js";
+import { ladeGalerien, el, bildElement, istPlatzhalter, fussZeigen } from "./gemeinsam.js";
 
 const SCHLOSS =
   '<svg aria-hidden="true" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="11" width="14" height="9" rx="1.5"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/></svg>';
@@ -58,4 +58,4 @@ async function start() {
   liste.replaceChildren(...galerien.filter((g) => g.externer_link || g.bilder.length).map(kachel));
 }
 
-document.addEventListener("specktrum:bereit", () => start().catch(console.error), { once: true });
+document.addEventListener("specktrum:bereit", () => start().catch(console.error).finally(fussZeigen), { once: true });
