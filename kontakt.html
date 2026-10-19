@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kontakt</title>
+  <meta name="description" content="Kontakt per E-Mail.">
+  <meta name="theme-color" content="#0b0b0c">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/stil.css">
+  <link rel="modulepreload" href="js/gemeinsam.js">
+  <link rel="preload" href="inhalt/seite.json" as="fetch" crossorigin>
+  <script type="module" src="js/gemeinsam.js"></script>
+</head>
+<body>
+  <main id="inhalt" class="seite">
+    <h1>Kontakt</h1>
+    <p class="hinweis" data-entwurf hidden>Entwurf: Die gelb markierten Platzhalter fehlen noch (siehe <code>inhalt/seiten.json</code>).</p>
+    <p data-feld="kontakt_einleitung"></p>
+    <p><a class="knopf" href="#" data-email="knopf">E-Mail schreiben</a></p>
+    <!--
+      Weitere Wege (z. B. Instagram) trägst du in inhalt/seiten.json unter
+      "kontakt_links" ein, Beispiel:
+        { "text": "Instagram", "ziel": "https://www.instagram.com/DEIN-NAME/" }
+      Externe Adressen danach in tools/externe-links-erlaubt.txt aufnehmen.
+    -->
+    <ul class="linkliste" data-liste="kontakt_links" hidden></ul>
+  </main>
+  <noscript>
+    <p class="fehler">Diese Seite braucht JavaScript, um Bilder und Texte anzuzeigen.</p>
+    <p class="fuss"><a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></p>
+  </noscript>
+</body>
+</html>
