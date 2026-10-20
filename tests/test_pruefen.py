@@ -70,7 +70,7 @@ class PruefenTest(unittest.TestCase):
         self.assertIn("fonts.example.invalid", ausgabe)
 
     def test_externer_link_aus_erlaubnisliste(self):
-        self.aendere("inhalt/galerien.json", "[HIER EINTRAGEN: Freigabe-Link]", "https://drive.example.invalid/ordner/abc")
+        self.aendere("inhalt/galerien.json", "https://drive.google.com/drive/folders/1vtViRTuW_kVBNHQN1k7I-B1rdAqiBbms?usp=sharing", "https://drive.example.invalid/ordner/abc")
         code, _ = self.pruefe()
         self.assertEqual(code, 1)  # nicht erlaubt
         with open(self.kopie / "tools" / "externe-links-erlaubt.txt", "a", encoding="utf-8") as f:
