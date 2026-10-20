@@ -1,0 +1,13 @@
+# Externe Adressen, die du BEWUSST auf der Seite verlinkst.
+# Alles, was mit http:// oder https:// anfängt und hier nicht aufgeführt ist,
+# lässt die Prüfung (tools/pruefen.py) fehlschlagen – so wird nichts aus
+# Versehen aus dem Netz eingebunden (Schriften, Skripte, Tracking ...).
+#
+# Eine Adresse (oder der Anfang davon) pro Zeile. Zeilen mit # sind Kommentare.
+# Beispiele (bei Bedarf das # entfernen):
+#   https://www.instagram.com/dein-name/
+#   https://drive.google.com/drive/folders/
+#
+# Hier den Freigabe-Link der geschlossenen Galerie "Tischtennis" eintragen,
+# sobald er in inhalt/galerien.json steht:
+https://drive.google.com/drive/folders/1vtViRTuW_kVBNHQN1k7I-B1rdAqiBbms

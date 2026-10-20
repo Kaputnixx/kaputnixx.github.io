@@ -1,0 +1,1633 @@
+{
+  "galerien": {
+    "landschaft": {
+      "titel": "Landschaft",
+      "bilder": [
+        {
+          "id": "platzhalter-01",
+          "breite": 1467,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Grün, Rosa und Blau (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 1 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-01-640.jpg",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-01-1280.jpg",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-01-2200.jpg",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-01-640.webp",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-01-1280.webp",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-01-2200.webp",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-02",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Abstrakter Farbverlauf in Rosa, Gelb und Orange (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 2 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-02-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-02-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-02-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-02-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-02-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-02-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-03",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Abstrakter Farbverlauf in Orange, Rosa und Blau (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 3 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-03-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-03-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-03-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-03-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-03-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-03-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-04",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Abstrakter Farbverlauf in Gelb, Grün und Rosa (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 4 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-04-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-04-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-04-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-04-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-04-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-04-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-05",
+          "breite": 1760,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Gelb, Grün und Orange (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 5 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-05-640.jpg",
+              "breite": 512,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-05-1280.jpg",
+              "breite": 1024,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-05-2200.jpg",
+              "breite": 1760,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-05-640.webp",
+              "breite": 512,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-05-1280.webp",
+              "breite": 1024,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-05-2200.webp",
+              "breite": 1760,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-06",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Abstrakter Farbverlauf in Blau, Gelb und Rosa (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 6 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-06-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-06-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-06-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-06-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-06-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-06-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-07",
+          "breite": 1467,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Grün, Gelb und Orange (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 7 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-07-640.jpg",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-07-1280.jpg",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-07-2200.jpg",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-07-640.webp",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-07-1280.webp",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-07-2200.webp",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-08",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Abstrakter Farbverlauf in Gelb, Grün und Rosa (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 8 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-08-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-08-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-08-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/platzhalter-08-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-08-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/platzhalter-08-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        }
+      ]
+    },
+    "makro": {
+      "titel": "Makro",
+      "bilder": [
+        {
+          "id": "platzhalter-01",
+          "breite": 1467,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Türkis, Gelb und Weiß (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 1 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/platzhalter-01-640.jpg",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-01-1280.jpg",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-01-2200.jpg",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/platzhalter-01-640.webp",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-01-1280.webp",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-01-2200.webp",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-02",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Abstrakter Farbverlauf in Rosa, Violett und Weiß (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 2 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/platzhalter-02-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-02-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-02-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/platzhalter-02-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-02-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-02-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-03",
+          "breite": 1467,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Gelb, Türkis und Rosa (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 3 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/platzhalter-03-640.jpg",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-03-1280.jpg",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-03-2200.jpg",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/platzhalter-03-640.webp",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-03-1280.webp",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-03-2200.webp",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-04",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Abstrakter Farbverlauf in Türkis, Rosa und Violett (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 4 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/platzhalter-04-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-04-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-04-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/platzhalter-04-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-04-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-04-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-05",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Abstrakter Farbverlauf in Gelb, Türkis und Violett (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 5 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/platzhalter-05-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-05-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-05-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/platzhalter-05-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-05-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-05-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-06",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Abstrakter Farbverlauf in Gelb, Rosa und Weiß (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 6 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/platzhalter-06-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-06-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-06-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/platzhalter-06-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-06-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-06-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-07",
+          "breite": 1760,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Weiß, Violett und Rosa (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 7 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/platzhalter-07-640.jpg",
+              "breite": 512,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-07-1280.jpg",
+              "breite": 1024,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-07-2200.jpg",
+              "breite": 1760,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/platzhalter-07-640.webp",
+              "breite": 512,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-07-1280.webp",
+              "breite": 1024,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/platzhalter-07-2200.webp",
+              "breite": 1760,
+              "hoehe": 2200
+            }
+          ]
+        }
+      ]
+    },
+    "menschen-und-portraet": {
+      "titel": "Menschen und Porträt",
+      "bilder": [
+        {
+          "id": "platzhalter-01",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Abstrakter Farbverlauf in Sand, Rosé und Beige (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 1 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-01-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-01-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-01-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-01-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-01-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-01-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-02",
+          "breite": 1760,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Rosé, Grau und Braun (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 2 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-02-640.jpg",
+              "breite": 512,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-02-1280.jpg",
+              "breite": 1024,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-02-2200.jpg",
+              "breite": 1760,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-02-640.webp",
+              "breite": 512,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-02-1280.webp",
+              "breite": 1024,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-02-2200.webp",
+              "breite": 1760,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-03",
+          "breite": 1467,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Braun, Sand und Rosé (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 3 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-03-640.jpg",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-03-1280.jpg",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-03-2200.jpg",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-03-640.webp",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-03-1280.webp",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-03-2200.webp",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-04",
+          "breite": 2200,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Braun, Rosé und Grau (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 4 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-04-640.jpg",
+              "breite": 640,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-04-1280.jpg",
+              "breite": 1280,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-04-2200.jpg",
+              "breite": 2200,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-04-640.webp",
+              "breite": 640,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-04-1280.webp",
+              "breite": 1280,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-04-2200.webp",
+              "breite": 2200,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-05",
+          "breite": 2200,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Beige, Braun und Grau (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 5 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-05-640.jpg",
+              "breite": 640,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-05-1280.jpg",
+              "breite": 1280,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-05-2200.jpg",
+              "breite": 2200,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-05-640.webp",
+              "breite": 640,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-05-1280.webp",
+              "breite": 1280,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-05-2200.webp",
+              "breite": 2200,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-06",
+          "breite": 2200,
+          "hoehe": 1238,
+          "alt": "Abstrakter Farbverlauf in Beige, Grau und Rosé (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 6 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-06-640.jpg",
+              "breite": 640,
+              "hoehe": 360
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-06-1280.jpg",
+              "breite": 1280,
+              "hoehe": 720
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-06-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1238
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-06-640.webp",
+              "breite": 640,
+              "hoehe": 360
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-06-1280.webp",
+              "breite": 1280,
+              "hoehe": 720
+            },
+            {
+              "pfad": "bilder/menschen-und-portraet/platzhalter-06-2200.webp",
+              "breite": 2200,
+              "hoehe": 1238
+            }
+          ]
+        }
+      ]
+    },
+    "nacht-und-licht": {
+      "titel": "Nacht und Licht",
+      "bilder": [
+        {
+          "id": "platzhalter-01",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Abstrakter Farbverlauf in Dunkelblau, Violett und Cyan (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 1 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-01-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-01-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-01-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-01-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-01-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-01-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-02",
+          "breite": 1760,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Rot, Cyan und Gelb (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 2 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-02-640.jpg",
+              "breite": 512,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-02-1280.jpg",
+              "breite": 1024,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-02-2200.jpg",
+              "breite": 1760,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-02-640.webp",
+              "breite": 512,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-02-1280.webp",
+              "breite": 1024,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-02-2200.webp",
+              "breite": 1760,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-03",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Abstrakter Farbverlauf in Cyan, Violett und Dunkelblau (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 3 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-03-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-03-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-03-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-03-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-03-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-03-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-04",
+          "breite": 2200,
+          "hoehe": 1238,
+          "alt": "Abstrakter Farbverlauf in Violett, Gelb und Rot (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 4 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-04-640.jpg",
+              "breite": 640,
+              "hoehe": 360
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-04-1280.jpg",
+              "breite": 1280,
+              "hoehe": 720
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-04-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1238
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-04-640.webp",
+              "breite": 640,
+              "hoehe": 360
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-04-1280.webp",
+              "breite": 1280,
+              "hoehe": 720
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-04-2200.webp",
+              "breite": 2200,
+              "hoehe": 1238
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-05",
+          "breite": 2200,
+          "hoehe": 1238,
+          "alt": "Abstrakter Farbverlauf in Rot, Violett und Cyan (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 5 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-05-640.jpg",
+              "breite": 640,
+              "hoehe": 360
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-05-1280.jpg",
+              "breite": 1280,
+              "hoehe": 720
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-05-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1238
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-05-640.webp",
+              "breite": 640,
+              "hoehe": 360
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-05-1280.webp",
+              "breite": 1280,
+              "hoehe": 720
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-05-2200.webp",
+              "breite": 2200,
+              "hoehe": 1238
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-06",
+          "breite": 2200,
+          "hoehe": 1238,
+          "alt": "Abstrakter Farbverlauf in Rot, Cyan und Gelb (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 6 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-06-640.jpg",
+              "breite": 640,
+              "hoehe": 360
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-06-1280.jpg",
+              "breite": 1280,
+              "hoehe": 720
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-06-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1238
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-06-640.webp",
+              "breite": 640,
+              "hoehe": 360
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-06-1280.webp",
+              "breite": 1280,
+              "hoehe": 720
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-06-2200.webp",
+              "breite": 2200,
+              "hoehe": 1238
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-07",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Abstrakter Farbverlauf in Violett, Gelb und Dunkelblau (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 7 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-07-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-07-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-07-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-07-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-07-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-07-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-08",
+          "breite": 1467,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Violett, Gelb und Rot (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 8 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-08-640.jpg",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-08-1280.jpg",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-08-2200.jpg",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-08-640.webp",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-08-1280.webp",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-08-2200.webp",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-09",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Abstrakter Farbverlauf in Dunkelblau, Violett und Rot (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 9 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-09-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-09-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-09-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-09-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-09-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/platzhalter-09-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        }
+      ]
+    },
+    "natur-und-tiere": {
+      "titel": "Natur und Tiere",
+      "bilder": [
+        {
+          "id": "platzhalter-01",
+          "breite": 1760,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Rot, Braun und Dunkelgrün (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 1 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-01-640.jpg",
+              "breite": 512,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-01-1280.jpg",
+              "breite": 1024,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-01-2200.jpg",
+              "breite": 1760,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-01-640.webp",
+              "breite": 512,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-01-1280.webp",
+              "breite": 1024,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-01-2200.webp",
+              "breite": 1760,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-02",
+          "breite": 2200,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Gelb, Grün und Dunkelgrün (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 2 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-02-640.jpg",
+              "breite": 640,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-02-1280.jpg",
+              "breite": 1280,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-02-2200.jpg",
+              "breite": 2200,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-02-640.webp",
+              "breite": 640,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-02-1280.webp",
+              "breite": 1280,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-02-2200.webp",
+              "breite": 2200,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-03",
+          "breite": 2200,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Rot, Dunkelgrün und Grün (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 3 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-03-640.jpg",
+              "breite": 640,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-03-1280.jpg",
+              "breite": 1280,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-03-2200.jpg",
+              "breite": 2200,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-03-640.webp",
+              "breite": 640,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-03-1280.webp",
+              "breite": 1280,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-03-2200.webp",
+              "breite": 2200,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-04",
+          "breite": 1760,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Grün, Rot und Dunkelgrün (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 4 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-04-640.jpg",
+              "breite": 512,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-04-1280.jpg",
+              "breite": 1024,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-04-2200.jpg",
+              "breite": 1760,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-04-640.webp",
+              "breite": 512,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-04-1280.webp",
+              "breite": 1024,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-04-2200.webp",
+              "breite": 1760,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-05",
+          "breite": 2200,
+          "hoehe": 1238,
+          "alt": "Abstrakter Farbverlauf in Dunkelgrün, Grün und Braun (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 5 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-05-640.jpg",
+              "breite": 640,
+              "hoehe": 360
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-05-1280.jpg",
+              "breite": 1280,
+              "hoehe": 720
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-05-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1238
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-05-640.webp",
+              "breite": 640,
+              "hoehe": 360
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-05-1280.webp",
+              "breite": 1280,
+              "hoehe": 720
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-05-2200.webp",
+              "breite": 2200,
+              "hoehe": 1238
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-06",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Abstrakter Farbverlauf in Grün, Rot und Dunkelgrün (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 6 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-06-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-06-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-06-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-06-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-06-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-06-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-07",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Abstrakter Farbverlauf in Gelb, Rot und Dunkelgrün (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 7 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-07-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-07-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-07-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-07-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-07-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-07-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "platzhalter-08",
+          "breite": 1467,
+          "hoehe": 2200,
+          "alt": "Abstrakter Farbverlauf in Gelb, Braun und Rot (Platzhalterbild)",
+          "unterschrift": "Platzhalterbild 8 – wird später durch ein eigenes Foto ersetzt",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-08-640.jpg",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-08-1280.jpg",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-08-2200.jpg",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-08-640.webp",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-08-1280.webp",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/platzhalter-08-2200.webp",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ]
+        }
+      ]
+    },
+    "titelbilder": {
+      "titel": "titelbilder",
+      "bilder": [
+        {
+          "id": "tischtennis",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Abstrakter Farbverlauf in Türkis, Weiß und Orange (Symbolbild)",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/titelbilder/tischtennis-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/titelbilder/tischtennis-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/titelbilder/tischtennis-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/titelbilder/tischtennis-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/titelbilder/tischtennis-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/titelbilder/tischtennis-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

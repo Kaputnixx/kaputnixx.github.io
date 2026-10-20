@@ -1,0 +1,19 @@
+{
+  "inhaber": {
+    "name": "Sebastian Constantin",
+    "email_lokal": "sebastian.constantin.sc",
+    "email_domain": "gmail.com",
+    "anschrift": "[HIER EINTRAGEN: Straße Hausnummer, PLZ Ort]"
+  },
+  "impressum_voll": false,
+  "ueber_mich": [
+    "Ich bin Sebastian, und bei mir wird alles zum Motiv: Berge, Käfer, Nachthimmel, ab und zu auch die Tischtennisplatte. Fotografiert habe ich schon immer gern, ernsthaft seit 2021.",
+    "Unterwegs habe ich meistens meine Canon EOS 6D Mark II dabei, und gern etwas zu viel Geduld für Makro und Nachtaufnahmen. Das Spektrum dieser Seite ist bewusst bunt."
+  ],
+  "personen_hinweis": "Personen auf den Bildern haben der Veröffentlichung zugestimmt. Wer ein Bild entfernt haben möchte, meldet sich bitte über die Kontaktseite – das Bild wird dann zügig entfernt.",
+  "kontakt_einleitung": "Fragen, Anregungen oder Wünsche zu einem Bild? Schreib mir gern eine E-Mail.",
+  "kontakt_links": [],
+  "kontakt_links_beispiel": [
+    { "text": "Instagram", "ziel": "https://www.instagram.com/DEIN-NAME/" }
+  ]
+}

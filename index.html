@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fotografie-Portfolio</title>
+  <meta name="description" content="Fotografie-Portfolio: Landschaft, Natur, Makro, Menschen und Nacht.">
+  <meta name="theme-color" content="#0b0b0c">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/stil.css">
+  <link rel="modulepreload" href="js/gemeinsam.js">
+  <link rel="preload" href="inhalt/seite.json" as="fetch" crossorigin>
+  <link rel="preload" href="inhalt/galerien.json" as="fetch" crossorigin>
+  <link rel="preload" href="inhalt/galerien-daten.json" as="fetch" crossorigin>
+  <script type="module" src="js/start.js"></script>
+</head>
+<body class="start" data-titel-nur-name>
+  <header class="kopf"></header>
+  <main id="inhalt">
+    <h1 class="nur-leser">Fotografie-Portfolio</h1>
+    <section class="diashow" id="diashow" aria-label="Diashow"></section>
+  </main>
+  <footer class="fuss" hidden></footer>
+  <noscript>
+    <p class="fehler">Diese Seite braucht JavaScript, um Bilder und Texte anzuzeigen.</p>
+    <p class="fuss"><a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></p>
+  </noscript>
+</body>
+</html>

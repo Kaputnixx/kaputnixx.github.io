@@ -1,0 +1,41 @@
+# Veröffentlicht den Repo-Inhalt bei jedem Push auf main mit GitHub Pages.
+# Es wird nichts gebaut: die Seite besteht aus fertigen Dateien.
+# Einmalig nötig: Settings -> Pages -> Source: "GitHub Actions"
+# (oder per Kommandozeile: gh api -X PUT repos/<Nutzer>/<Repo>/pages -f build_type=workflow).
+name: Seite veröffentlichen
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  veroeffentlichen:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Repo auschecken
+        uses: actions/checkout@v4
+
+      - name: Pages einrichten
+        uses: actions/configure-pages@v5
+
+      - name: Dateien hochladen
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Veröffentlichen
+        id: deployment
+        uses: actions/deploy-pages@v4

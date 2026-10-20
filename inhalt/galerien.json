@@ -1,0 +1,42 @@
+{
+  "galerien": [
+    {
+      "id": "landschaft",
+      "titel": "Landschaft",
+      "beschreibung": "Weite, Licht und Stimmung.",
+      "startseite": true
+    },
+    {
+      "id": "natur-und-tiere",
+      "titel": "Natur und Tiere",
+      "beschreibung": "Pflanzen, Tiere und Begegnungen draußen.",
+      "startseite": true
+    },
+    {
+      "id": "makro",
+      "titel": "Makro",
+      "beschreibung": "Kleine Dinge ganz groß.",
+      "startseite": true
+    },
+    {
+      "id": "menschen-und-portraet",
+      "titel": "Menschen und Porträt",
+      "beschreibung": "Menschen, die der Veröffentlichung zugestimmt haben.",
+      "startseite": false
+    },
+    {
+      "id": "nacht-und-licht",
+      "titel": "Nacht und Licht",
+      "beschreibung": "Dunkelheit, Lichter und lange Belichtung.",
+      "startseite": true
+    },
+    {
+      "id": "tischtennis",
+      "titel": "Tischtennis",
+      "beschreibung": "Geschlossener Bereich für die Tischtennis-Gruppe.",
+      "startseite": false,
+      "titelbild": "tischtennis",
+      "externer_link": "https://drive.google.com/drive/folders/1vtViRTuW_kVBNHQN1k7I-B1rdAqiBbms?usp=sharing"
+    }
+  ]
+}
