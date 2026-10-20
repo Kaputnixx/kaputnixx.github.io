@@ -1,6 +1,6 @@
 {
   "name": "Specktrumgrafie",
-  "untertitel": "[HIER EINTRAGEN: Untertitel, z. B. Fotografie aus Landschaft, Natur und Alltag]",
+  "untertitel": "Licht, Natur und kleine Dinge",
   "navigation": [
     { "text": "Galerien", "ziel": "galerien.html" },
     { "text": "Über mich", "ziel": "ueber-mich.html" },
