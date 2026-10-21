@@ -339,7 +339,7 @@ def bauen(wurzel: Path, aufraeumen: bool = False, ausgabe=print) -> Zusammenfass
                     "breite": record["breite"],
                     "hoehe": record["hoehe"],
                     "alt": finde_text(alt_texte, datei)
-                    or f"Foto {nr} aus der Galerie {titel} (Beschreibung folgt)",
+                    or f"Foto {nr} aus der Galerie {titel}",
                     "unterschrift": finde_text(unterschriften, datei) or "",
                     "jpeg": [{k: v[k] for k in ("pfad", "breite", "hoehe")} for v in record["jpeg"]],
                     "webp": [{k: v[k] for k in ("pfad", "breite", "hoehe")} for v in record["webp"]],

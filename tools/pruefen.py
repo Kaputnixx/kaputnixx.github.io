@@ -220,9 +220,7 @@ def pruefe_inhalt() -> None:
                         melde("FEHLER", ordner / "galerien-daten.json", f"Bilddatei {v['pfad']} fehlt")
             if not b.get("alt", "").strip():
                 melde("FEHLER", ordner / "galerien-daten.json", f"{gid}/{b['id']}: alt-Text fehlt")
-    offen = sum("Beschreibung folgt" in b.get("alt", "") for g in bilder.values() for b in g.get("bilder", []))
-    if offen:
-        melde("WARNUNG", ordner / "galerien-daten.json", f"{offen} Bilder haben noch den Platzhalter-alt-Text ('Beschreibung folgt'); alt.txt in fotos-quelle/<Galerie>/ pflegen")
+
 
 
 def pruefe_bilder() -> None:

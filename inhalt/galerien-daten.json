@@ -4,330 +4,1355 @@
       "titel": "Landschaft",
       "bilder": [
         {
-          "id": "platzhalter-01",
-          "breite": 1467,
-          "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Grün, Rosa und Blau (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 1 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/landschaft/platzhalter-01-640.jpg",
-              "breite": 427,
-              "hoehe": 640
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-01-1280.jpg",
-              "breite": 853,
-              "hoehe": 1280
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-01-2200.jpg",
-              "breite": 1467,
-              "hoehe": 2200
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/landschaft/platzhalter-01-640.webp",
-              "breite": 427,
-              "hoehe": 640
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-01-1280.webp",
-              "breite": 853,
-              "hoehe": 1280
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-01-2200.webp",
-              "breite": 1467,
-              "hoehe": 2200
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-02",
+          "id": "01",
           "breite": 2200,
-          "hoehe": 1467,
-          "alt": "Abstrakter Farbverlauf in Rosa, Gelb und Orange (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 2 – wird später durch ein eigenes Foto ersetzt",
+          "hoehe": 1291,
+          "alt": "Foto 1 aus der Galerie Landschaft",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/landschaft/platzhalter-02-640.jpg",
+              "pfad": "bilder/landschaft/01-640.jpg",
               "breite": 640,
-              "hoehe": 427
+              "hoehe": 375
             },
             {
-              "pfad": "bilder/landschaft/platzhalter-02-1280.jpg",
+              "pfad": "bilder/landschaft/01-1280.jpg",
               "breite": 1280,
-              "hoehe": 853
+              "hoehe": 751
             },
             {
-              "pfad": "bilder/landschaft/platzhalter-02-2200.jpg",
+              "pfad": "bilder/landschaft/01-2200.jpg",
               "breite": 2200,
-              "hoehe": 1467
+              "hoehe": 1291
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/landschaft/platzhalter-02-640.webp",
+              "pfad": "bilder/landschaft/01-640.webp",
               "breite": 640,
-              "hoehe": 427
+              "hoehe": 375
             },
             {
-              "pfad": "bilder/landschaft/platzhalter-02-1280.webp",
+              "pfad": "bilder/landschaft/01-1280.webp",
               "breite": 1280,
-              "hoehe": 853
+              "hoehe": 751
             },
             {
-              "pfad": "bilder/landschaft/platzhalter-02-2200.webp",
+              "pfad": "bilder/landschaft/01-2200.webp",
               "breite": 2200,
-              "hoehe": 1467
+              "hoehe": 1291
             }
           ]
         },
         {
-          "id": "platzhalter-03",
-          "breite": 2200,
-          "hoehe": 1467,
-          "alt": "Abstrakter Farbverlauf in Orange, Rosa und Blau (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 3 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/landschaft/platzhalter-03-640.jpg",
-              "breite": 640,
-              "hoehe": 427
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-03-1280.jpg",
-              "breite": 1280,
-              "hoehe": 853
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-03-2200.jpg",
-              "breite": 2200,
-              "hoehe": 1467
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/landschaft/platzhalter-03-640.webp",
-              "breite": 640,
-              "hoehe": 427
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-03-1280.webp",
-              "breite": 1280,
-              "hoehe": 853
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-03-2200.webp",
-              "breite": 2200,
-              "hoehe": 1467
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-04",
-          "breite": 2200,
-          "hoehe": 1467,
-          "alt": "Abstrakter Farbverlauf in Gelb, Grün und Rosa (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 4 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/landschaft/platzhalter-04-640.jpg",
-              "breite": 640,
-              "hoehe": 427
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-04-1280.jpg",
-              "breite": 1280,
-              "hoehe": 853
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-04-2200.jpg",
-              "breite": 2200,
-              "hoehe": 1467
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/landschaft/platzhalter-04-640.webp",
-              "breite": 640,
-              "hoehe": 427
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-04-1280.webp",
-              "breite": 1280,
-              "hoehe": 853
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-04-2200.webp",
-              "breite": 2200,
-              "hoehe": 1467
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-05",
-          "breite": 1760,
-          "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Gelb, Grün und Orange (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 5 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/landschaft/platzhalter-05-640.jpg",
-              "breite": 512,
-              "hoehe": 640
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-05-1280.jpg",
-              "breite": 1024,
-              "hoehe": 1280
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-05-2200.jpg",
-              "breite": 1760,
-              "hoehe": 2200
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/landschaft/platzhalter-05-640.webp",
-              "breite": 512,
-              "hoehe": 640
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-05-1280.webp",
-              "breite": 1024,
-              "hoehe": 1280
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-05-2200.webp",
-              "breite": 1760,
-              "hoehe": 2200
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-06",
-          "breite": 2200,
-          "hoehe": 1467,
-          "alt": "Abstrakter Farbverlauf in Blau, Gelb und Rosa (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 6 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/landschaft/platzhalter-06-640.jpg",
-              "breite": 640,
-              "hoehe": 427
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-06-1280.jpg",
-              "breite": 1280,
-              "hoehe": 853
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-06-2200.jpg",
-              "breite": 2200,
-              "hoehe": 1467
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/landschaft/platzhalter-06-640.webp",
-              "breite": 640,
-              "hoehe": 427
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-06-1280.webp",
-              "breite": 1280,
-              "hoehe": 853
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-06-2200.webp",
-              "breite": 2200,
-              "hoehe": 1467
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-07",
-          "breite": 1467,
-          "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Grün, Gelb und Orange (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 7 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/landschaft/platzhalter-07-640.jpg",
-              "breite": 427,
-              "hoehe": 640
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-07-1280.jpg",
-              "breite": 853,
-              "hoehe": 1280
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-07-2200.jpg",
-              "breite": 1467,
-              "hoehe": 2200
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/landschaft/platzhalter-07-640.webp",
-              "breite": 427,
-              "hoehe": 640
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-07-1280.webp",
-              "breite": 853,
-              "hoehe": 1280
-            },
-            {
-              "pfad": "bilder/landschaft/platzhalter-07-2200.webp",
-              "breite": 1467,
-              "hoehe": 2200
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-08",
+          "id": "02",
           "breite": 2200,
           "hoehe": 1650,
-          "alt": "Abstrakter Farbverlauf in Gelb, Grün und Rosa (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 8 – wird später durch ein eigenes Foto ersetzt",
+          "alt": "Foto 2 aus der Galerie Landschaft",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/landschaft/platzhalter-08-640.jpg",
+              "pfad": "bilder/landschaft/02-640.jpg",
               "breite": 640,
               "hoehe": 480
             },
             {
-              "pfad": "bilder/landschaft/platzhalter-08-1280.jpg",
+              "pfad": "bilder/landschaft/02-1280.jpg",
               "breite": 1280,
               "hoehe": 960
             },
             {
-              "pfad": "bilder/landschaft/platzhalter-08-2200.jpg",
+              "pfad": "bilder/landschaft/02-2200.jpg",
               "breite": 2200,
               "hoehe": 1650
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/landschaft/platzhalter-08-640.webp",
+              "pfad": "bilder/landschaft/02-640.webp",
               "breite": 640,
               "hoehe": 480
             },
             {
-              "pfad": "bilder/landschaft/platzhalter-08-1280.webp",
+              "pfad": "bilder/landschaft/02-1280.webp",
               "breite": 1280,
               "hoehe": 960
             },
             {
-              "pfad": "bilder/landschaft/platzhalter-08-2200.webp",
+              "pfad": "bilder/landschaft/02-2200.webp",
               "breite": 2200,
               "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "breite": 2200,
+          "hoehe": 1371,
+          "alt": "Foto 3 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/03-640.jpg",
+              "breite": 640,
+              "hoehe": 399
+            },
+            {
+              "pfad": "bilder/landschaft/03-1280.jpg",
+              "breite": 1280,
+              "hoehe": 797
+            },
+            {
+              "pfad": "bilder/landschaft/03-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1371
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/03-640.webp",
+              "breite": 640,
+              "hoehe": 399
+            },
+            {
+              "pfad": "bilder/landschaft/03-1280.webp",
+              "breite": 1280,
+              "hoehe": 797
+            },
+            {
+              "pfad": "bilder/landschaft/03-2200.webp",
+              "breite": 2200,
+              "hoehe": 1371
+            }
+          ]
+        },
+        {
+          "id": "04",
+          "breite": 1625,
+          "hoehe": 2200,
+          "alt": "Foto 4 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/04-640.jpg",
+              "breite": 473,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/04-1280.jpg",
+              "breite": 945,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/04-2200.jpg",
+              "breite": 1625,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/04-640.webp",
+              "breite": 473,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/04-1280.webp",
+              "breite": 945,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/04-2200.webp",
+              "breite": 1625,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Foto 5 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/05-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/05-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/05-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/05-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/05-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/05-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "06",
+          "breite": 2200,
+          "hoehe": 1376,
+          "alt": "Foto 6 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/06-640.jpg",
+              "breite": 640,
+              "hoehe": 400
+            },
+            {
+              "pfad": "bilder/landschaft/06-1280.jpg",
+              "breite": 1280,
+              "hoehe": 800
+            },
+            {
+              "pfad": "bilder/landschaft/06-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1376
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/06-640.webp",
+              "breite": 640,
+              "hoehe": 400
+            },
+            {
+              "pfad": "bilder/landschaft/06-1280.webp",
+              "breite": 1280,
+              "hoehe": 800
+            },
+            {
+              "pfad": "bilder/landschaft/06-2200.webp",
+              "breite": 2200,
+              "hoehe": 1376
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "breite": 1467,
+          "hoehe": 2200,
+          "alt": "Foto 7 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/07-640.jpg",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/07-1280.jpg",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/07-2200.jpg",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/07-640.webp",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/07-1280.webp",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/07-2200.webp",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "08",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Foto 8 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/08-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/08-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/08-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/08-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/08-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/08-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Foto 9 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/09-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/09-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/09-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/09-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/09-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/09-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "breite": 2200,
+          "hoehe": 1034,
+          "alt": "Foto 10 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/10-640.jpg",
+              "breite": 640,
+              "hoehe": 301
+            },
+            {
+              "pfad": "bilder/landschaft/10-1280.jpg",
+              "breite": 1280,
+              "hoehe": 602
+            },
+            {
+              "pfad": "bilder/landschaft/10-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1034
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/10-640.webp",
+              "breite": 640,
+              "hoehe": 301
+            },
+            {
+              "pfad": "bilder/landschaft/10-1280.webp",
+              "breite": 1280,
+              "hoehe": 602
+            },
+            {
+              "pfad": "bilder/landschaft/10-2200.webp",
+              "breite": 2200,
+              "hoehe": 1034
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "breite": 1657,
+          "hoehe": 2200,
+          "alt": "Foto 11 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/11-640.jpg",
+              "breite": 482,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/11-1280.jpg",
+              "breite": 964,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/11-2200.jpg",
+              "breite": 1657,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/11-640.webp",
+              "breite": 482,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/11-1280.webp",
+              "breite": 964,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/11-2200.webp",
+              "breite": 1657,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Foto 12 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/12-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/12-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/12-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/12-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/12-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/12-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "breite": 797,
+          "hoehe": 2200,
+          "alt": "Foto 13 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/13-640.jpg",
+              "breite": 232,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/13-1280.jpg",
+              "breite": 464,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/13-2200.jpg",
+              "breite": 797,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/13-640.webp",
+              "breite": 232,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/13-1280.webp",
+              "breite": 464,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/13-2200.webp",
+              "breite": 797,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "breite": 2200,
+          "hoehe": 2200,
+          "alt": "Foto 14 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/14-640.jpg",
+              "breite": 640,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/14-1280.jpg",
+              "breite": 1280,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/14-2200.jpg",
+              "breite": 2200,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/14-640.webp",
+              "breite": 640,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/14-1280.webp",
+              "breite": 1280,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/14-2200.webp",
+              "breite": 2200,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Foto 15 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/15-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/15-1280.jpg",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/landschaft/15-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/15-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/15-1280.webp",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/landschaft/15-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Foto 16 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/16-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/16-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/16-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/16-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/16-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/16-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Foto 17 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/17-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/17-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/17-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/17-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/17-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/17-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "breite": 1650,
+          "hoehe": 2200,
+          "alt": "Foto 18 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/18-640.jpg",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/18-1280.jpg",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/18-2200.jpg",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/18-640.webp",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/18-1280.webp",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/18-2200.webp",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Foto 19 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/19-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/19-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/19-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/19-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/19-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/19-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "breite": 2200,
+          "hoehe": 606,
+          "alt": "Foto 20 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/20-640.jpg",
+              "breite": 640,
+              "hoehe": 176
+            },
+            {
+              "pfad": "bilder/landschaft/20-1280.jpg",
+              "breite": 1280,
+              "hoehe": 353
+            },
+            {
+              "pfad": "bilder/landschaft/20-2200.jpg",
+              "breite": 2200,
+              "hoehe": 606
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/20-640.webp",
+              "breite": 640,
+              "hoehe": 176
+            },
+            {
+              "pfad": "bilder/landschaft/20-1280.webp",
+              "breite": 1280,
+              "hoehe": 353
+            },
+            {
+              "pfad": "bilder/landschaft/20-2200.webp",
+              "breite": 2200,
+              "hoehe": 606
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "breite": 2200,
+          "hoehe": 1375,
+          "alt": "Foto 21 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/21-640.jpg",
+              "breite": 640,
+              "hoehe": 400
+            },
+            {
+              "pfad": "bilder/landschaft/21-1280.jpg",
+              "breite": 1280,
+              "hoehe": 800
+            },
+            {
+              "pfad": "bilder/landschaft/21-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1375
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/21-640.webp",
+              "breite": 640,
+              "hoehe": 400
+            },
+            {
+              "pfad": "bilder/landschaft/21-1280.webp",
+              "breite": 1280,
+              "hoehe": 800
+            },
+            {
+              "pfad": "bilder/landschaft/21-2200.webp",
+              "breite": 2200,
+              "hoehe": 1375
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Foto 22 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/22-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/22-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/22-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/22-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/22-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/22-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "breite": 2200,
+          "hoehe": 1247,
+          "alt": "Foto 23 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/23-640.jpg",
+              "breite": 640,
+              "hoehe": 363
+            },
+            {
+              "pfad": "bilder/landschaft/23-1280.jpg",
+              "breite": 1280,
+              "hoehe": 725
+            },
+            {
+              "pfad": "bilder/landschaft/23-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1247
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/23-640.webp",
+              "breite": 640,
+              "hoehe": 363
+            },
+            {
+              "pfad": "bilder/landschaft/23-1280.webp",
+              "breite": 1280,
+              "hoehe": 725
+            },
+            {
+              "pfad": "bilder/landschaft/23-2200.webp",
+              "breite": 2200,
+              "hoehe": 1247
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Foto 24 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/24-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/24-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/24-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/24-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/24-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/24-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Foto 25 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/25-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/25-1280.jpg",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/landschaft/25-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/25-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/25-1280.webp",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/landschaft/25-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "breite": 2200,
+          "hoehe": 1466,
+          "alt": "Foto 26 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/26-640.jpg",
+              "breite": 640,
+              "hoehe": 426
+            },
+            {
+              "pfad": "bilder/landschaft/26-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/26-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1466
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/26-640.webp",
+              "breite": 640,
+              "hoehe": 426
+            },
+            {
+              "pfad": "bilder/landschaft/26-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/26-2200.webp",
+              "breite": 2200,
+              "hoehe": 1466
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "breite": 1650,
+          "hoehe": 2200,
+          "alt": "Foto 27 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/27-640.jpg",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/27-1280.jpg",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/27-2200.jpg",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/27-640.webp",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/27-1280.webp",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/27-2200.webp",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "breite": 1999,
+          "hoehe": 1333,
+          "alt": "Foto 28 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/28-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/28-1280.jpg",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/landschaft/28-1999.jpg",
+              "breite": 1999,
+              "hoehe": 1333
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/28-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/28-1280.webp",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/landschaft/28-1999.webp",
+              "breite": 1999,
+              "hoehe": 1333
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "breite": 2000,
+          "hoehe": 1333,
+          "alt": "Foto 29 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/29-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/29-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/29-2000.jpg",
+              "breite": 2000,
+              "hoehe": 1333
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/29-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/29-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/landschaft/29-2000.webp",
+              "breite": 2000,
+              "hoehe": 1333
+            }
+          ]
+        },
+        {
+          "id": "30",
+          "breite": 2200,
+          "hoehe": 582,
+          "alt": "Foto 30 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/30-640.jpg",
+              "breite": 640,
+              "hoehe": 169
+            },
+            {
+              "pfad": "bilder/landschaft/30-1280.jpg",
+              "breite": 1280,
+              "hoehe": 338
+            },
+            {
+              "pfad": "bilder/landschaft/30-2200.jpg",
+              "breite": 2200,
+              "hoehe": 582
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/30-640.webp",
+              "breite": 640,
+              "hoehe": 169
+            },
+            {
+              "pfad": "bilder/landschaft/30-1280.webp",
+              "breite": 1280,
+              "hoehe": 338
+            },
+            {
+              "pfad": "bilder/landschaft/30-2200.webp",
+              "breite": 2200,
+              "hoehe": 582
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "breite": 1650,
+          "hoehe": 2200,
+          "alt": "Foto 31 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/31-640.jpg",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/31-1280.jpg",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/31-2200.jpg",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/31-640.webp",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/landschaft/31-1280.webp",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/landschaft/31-2200.webp",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Foto 32 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/32-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/32-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/32-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/32-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/landschaft/32-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/landschaft/32-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "breite": 2200,
+          "hoehe": 1468,
+          "alt": "Foto 33 aus der Galerie Landschaft",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/landschaft/33-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/33-1280.jpg",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/landschaft/33-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1468
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/landschaft/33-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/landschaft/33-1280.webp",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/landschaft/33-2200.webp",
+              "breite": 2200,
+              "hoehe": 1468
             }
           ]
         }
@@ -337,289 +1362,822 @@
       "titel": "Makro",
       "bilder": [
         {
-          "id": "platzhalter-01",
+          "id": "01",
+          "breite": 1650,
+          "hoehe": 2200,
+          "alt": "Foto 1 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/01-640.jpg",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/01-1280.jpg",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/01-2200.jpg",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/01-640.webp",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/01-1280.webp",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/01-2200.webp",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "02",
+          "breite": 2200,
+          "hoehe": 1470,
+          "alt": "Foto 2 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/02-640.jpg",
+              "breite": 640,
+              "hoehe": 428
+            },
+            {
+              "pfad": "bilder/makro/02-1280.jpg",
+              "breite": 1280,
+              "hoehe": 855
+            },
+            {
+              "pfad": "bilder/makro/02-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1470
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/02-640.webp",
+              "breite": 640,
+              "hoehe": 428
+            },
+            {
+              "pfad": "bilder/makro/02-1280.webp",
+              "breite": 1280,
+              "hoehe": 855
+            },
+            {
+              "pfad": "bilder/makro/02-2200.webp",
+              "breite": 2200,
+              "hoehe": 1470
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "breite": 1470,
+          "hoehe": 2200,
+          "alt": "Foto 3 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/03-640.jpg",
+              "breite": 428,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/03-1280.jpg",
+              "breite": 855,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/03-2200.jpg",
+              "breite": 1470,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/03-640.webp",
+              "breite": 428,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/03-1280.webp",
+              "breite": 855,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/03-2200.webp",
+              "breite": 1470,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "04",
+          "breite": 1224,
+          "hoehe": 2200,
+          "alt": "Foto 4 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/04-640.jpg",
+              "breite": 356,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/04-1280.jpg",
+              "breite": 712,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/04-2200.jpg",
+              "breite": 1224,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/04-640.webp",
+              "breite": 356,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/04-1280.webp",
+              "breite": 712,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/04-2200.webp",
+              "breite": 1224,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Foto 5 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/05-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/05-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/makro/05-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/05-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/05-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/makro/05-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "06",
           "breite": 1467,
           "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Türkis, Gelb und Weiß (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 1 – wird später durch ein eigenes Foto ersetzt",
+          "alt": "Foto 6 aus der Galerie Makro",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/makro/platzhalter-01-640.jpg",
+              "pfad": "bilder/makro/06-640.jpg",
               "breite": 427,
               "hoehe": 640
             },
             {
-              "pfad": "bilder/makro/platzhalter-01-1280.jpg",
+              "pfad": "bilder/makro/06-1280.jpg",
               "breite": 853,
               "hoehe": 1280
             },
             {
-              "pfad": "bilder/makro/platzhalter-01-2200.jpg",
+              "pfad": "bilder/makro/06-2200.jpg",
               "breite": 1467,
               "hoehe": 2200
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/makro/platzhalter-01-640.webp",
+              "pfad": "bilder/makro/06-640.webp",
               "breite": 427,
               "hoehe": 640
             },
             {
-              "pfad": "bilder/makro/platzhalter-01-1280.webp",
+              "pfad": "bilder/makro/06-1280.webp",
               "breite": 853,
               "hoehe": 1280
             },
             {
-              "pfad": "bilder/makro/platzhalter-01-2200.webp",
+              "pfad": "bilder/makro/06-2200.webp",
               "breite": 1467,
               "hoehe": 2200
             }
           ]
         },
         {
-          "id": "platzhalter-02",
+          "id": "07",
+          "breite": 1470,
+          "hoehe": 2200,
+          "alt": "Foto 7 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/07-640.jpg",
+              "breite": 428,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/07-1280.jpg",
+              "breite": 855,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/07-2200.jpg",
+              "breite": 1470,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/07-640.webp",
+              "breite": 428,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/07-1280.webp",
+              "breite": 855,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/07-2200.webp",
+              "breite": 1470,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "08",
           "breite": 2200,
-          "hoehe": 1650,
-          "alt": "Abstrakter Farbverlauf in Rosa, Violett und Weiß (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 2 – wird später durch ein eigenes Foto ersetzt",
+          "hoehe": 1467,
+          "alt": "Foto 8 aus der Galerie Makro",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/makro/platzhalter-02-640.jpg",
+              "pfad": "bilder/makro/08-640.jpg",
               "breite": 640,
-              "hoehe": 480
+              "hoehe": 427
             },
             {
-              "pfad": "bilder/makro/platzhalter-02-1280.jpg",
+              "pfad": "bilder/makro/08-1280.jpg",
               "breite": 1280,
-              "hoehe": 960
+              "hoehe": 853
             },
             {
-              "pfad": "bilder/makro/platzhalter-02-2200.jpg",
+              "pfad": "bilder/makro/08-2200.jpg",
               "breite": 2200,
-              "hoehe": 1650
+              "hoehe": 1467
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/makro/platzhalter-02-640.webp",
+              "pfad": "bilder/makro/08-640.webp",
               "breite": 640,
-              "hoehe": 480
+              "hoehe": 427
             },
             {
-              "pfad": "bilder/makro/platzhalter-02-1280.webp",
+              "pfad": "bilder/makro/08-1280.webp",
               "breite": 1280,
-              "hoehe": 960
+              "hoehe": 853
             },
             {
-              "pfad": "bilder/makro/platzhalter-02-2200.webp",
+              "pfad": "bilder/makro/08-2200.webp",
               "breite": 2200,
-              "hoehe": 1650
+              "hoehe": 1467
             }
           ]
         },
         {
-          "id": "platzhalter-03",
+          "id": "09",
+          "breite": 1470,
+          "hoehe": 2200,
+          "alt": "Foto 9 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/09-640.jpg",
+              "breite": 428,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/09-1280.jpg",
+              "breite": 855,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/09-2200.jpg",
+              "breite": 1470,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/09-640.webp",
+              "breite": 428,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/09-1280.webp",
+              "breite": 855,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/09-2200.webp",
+              "breite": 1470,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "10",
           "breite": 1467,
           "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Gelb, Türkis und Rosa (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 3 – wird später durch ein eigenes Foto ersetzt",
+          "alt": "Foto 10 aus der Galerie Makro",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/makro/platzhalter-03-640.jpg",
+              "pfad": "bilder/makro/10-640.jpg",
               "breite": 427,
               "hoehe": 640
             },
             {
-              "pfad": "bilder/makro/platzhalter-03-1280.jpg",
+              "pfad": "bilder/makro/10-1280.jpg",
               "breite": 853,
               "hoehe": 1280
             },
             {
-              "pfad": "bilder/makro/platzhalter-03-2200.jpg",
+              "pfad": "bilder/makro/10-2200.jpg",
               "breite": 1467,
               "hoehe": 2200
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/makro/platzhalter-03-640.webp",
+              "pfad": "bilder/makro/10-640.webp",
               "breite": 427,
               "hoehe": 640
             },
             {
-              "pfad": "bilder/makro/platzhalter-03-1280.webp",
+              "pfad": "bilder/makro/10-1280.webp",
               "breite": 853,
               "hoehe": 1280
             },
             {
-              "pfad": "bilder/makro/platzhalter-03-2200.webp",
+              "pfad": "bilder/makro/10-2200.webp",
               "breite": 1467,
               "hoehe": 2200
             }
           ]
         },
         {
-          "id": "platzhalter-04",
-          "breite": 2200,
-          "hoehe": 1467,
-          "alt": "Abstrakter Farbverlauf in Türkis, Rosa und Violett (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 4 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/makro/platzhalter-04-640.jpg",
-              "breite": 640,
-              "hoehe": 427
-            },
-            {
-              "pfad": "bilder/makro/platzhalter-04-1280.jpg",
-              "breite": 1280,
-              "hoehe": 853
-            },
-            {
-              "pfad": "bilder/makro/platzhalter-04-2200.jpg",
-              "breite": 2200,
-              "hoehe": 1467
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/makro/platzhalter-04-640.webp",
-              "breite": 640,
-              "hoehe": 427
-            },
-            {
-              "pfad": "bilder/makro/platzhalter-04-1280.webp",
-              "breite": 1280,
-              "hoehe": 853
-            },
-            {
-              "pfad": "bilder/makro/platzhalter-04-2200.webp",
-              "breite": 2200,
-              "hoehe": 1467
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-05",
-          "breite": 2200,
-          "hoehe": 1467,
-          "alt": "Abstrakter Farbverlauf in Gelb, Türkis und Violett (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 5 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/makro/platzhalter-05-640.jpg",
-              "breite": 640,
-              "hoehe": 427
-            },
-            {
-              "pfad": "bilder/makro/platzhalter-05-1280.jpg",
-              "breite": 1280,
-              "hoehe": 853
-            },
-            {
-              "pfad": "bilder/makro/platzhalter-05-2200.jpg",
-              "breite": 2200,
-              "hoehe": 1467
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/makro/platzhalter-05-640.webp",
-              "breite": 640,
-              "hoehe": 427
-            },
-            {
-              "pfad": "bilder/makro/platzhalter-05-1280.webp",
-              "breite": 1280,
-              "hoehe": 853
-            },
-            {
-              "pfad": "bilder/makro/platzhalter-05-2200.webp",
-              "breite": 2200,
-              "hoehe": 1467
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-06",
-          "breite": 2200,
-          "hoehe": 1467,
-          "alt": "Abstrakter Farbverlauf in Gelb, Rosa und Weiß (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 6 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/makro/platzhalter-06-640.jpg",
-              "breite": 640,
-              "hoehe": 427
-            },
-            {
-              "pfad": "bilder/makro/platzhalter-06-1280.jpg",
-              "breite": 1280,
-              "hoehe": 853
-            },
-            {
-              "pfad": "bilder/makro/platzhalter-06-2200.jpg",
-              "breite": 2200,
-              "hoehe": 1467
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/makro/platzhalter-06-640.webp",
-              "breite": 640,
-              "hoehe": 427
-            },
-            {
-              "pfad": "bilder/makro/platzhalter-06-1280.webp",
-              "breite": 1280,
-              "hoehe": 853
-            },
-            {
-              "pfad": "bilder/makro/platzhalter-06-2200.webp",
-              "breite": 2200,
-              "hoehe": 1467
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-07",
-          "breite": 1760,
+          "id": "11",
+          "breite": 1467,
           "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Weiß, Violett und Rosa (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 7 – wird später durch ein eigenes Foto ersetzt",
+          "alt": "Foto 11 aus der Galerie Makro",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/makro/platzhalter-07-640.jpg",
-              "breite": 512,
+              "pfad": "bilder/makro/11-640.jpg",
+              "breite": 427,
               "hoehe": 640
             },
             {
-              "pfad": "bilder/makro/platzhalter-07-1280.jpg",
-              "breite": 1024,
+              "pfad": "bilder/makro/11-1280.jpg",
+              "breite": 853,
               "hoehe": 1280
             },
             {
-              "pfad": "bilder/makro/platzhalter-07-2200.jpg",
-              "breite": 1760,
+              "pfad": "bilder/makro/11-2200.jpg",
+              "breite": 1467,
               "hoehe": 2200
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/makro/platzhalter-07-640.webp",
-              "breite": 512,
+              "pfad": "bilder/makro/11-640.webp",
+              "breite": 427,
               "hoehe": 640
             },
             {
-              "pfad": "bilder/makro/platzhalter-07-1280.webp",
-              "breite": 1024,
+              "pfad": "bilder/makro/11-1280.webp",
+              "breite": 853,
               "hoehe": 1280
             },
             {
-              "pfad": "bilder/makro/platzhalter-07-2200.webp",
-              "breite": 1760,
+              "pfad": "bilder/makro/11-2200.webp",
+              "breite": 1467,
               "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Foto 12 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/12-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/12-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/makro/12-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/12-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/12-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/makro/12-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "breite": 2200,
+          "hoehe": 1468,
+          "alt": "Foto 13 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/13-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/13-1280.jpg",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/makro/13-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1468
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/13-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/13-1280.webp",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/makro/13-2200.webp",
+              "breite": 2200,
+              "hoehe": 1468
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "breite": 2200,
+          "hoehe": 1921,
+          "alt": "Foto 14 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/14-640.jpg",
+              "breite": 640,
+              "hoehe": 559
+            },
+            {
+              "pfad": "bilder/makro/14-1280.jpg",
+              "breite": 1280,
+              "hoehe": 1117
+            },
+            {
+              "pfad": "bilder/makro/14-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1921
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/14-640.webp",
+              "breite": 640,
+              "hoehe": 559
+            },
+            {
+              "pfad": "bilder/makro/14-1280.webp",
+              "breite": 1280,
+              "hoehe": 1117
+            },
+            {
+              "pfad": "bilder/makro/14-2200.webp",
+              "breite": 2200,
+              "hoehe": 1921
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "breite": 1468,
+          "hoehe": 2200,
+          "alt": "Foto 15 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/15-640.jpg",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/15-1280.jpg",
+              "breite": 854,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/15-2200.jpg",
+              "breite": 1468,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/15-640.webp",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/15-1280.webp",
+              "breite": 854,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/15-2200.webp",
+              "breite": 1468,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Foto 16 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/16-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/16-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/makro/16-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/16-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/16-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/makro/16-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "breite": 2200,
+          "hoehe": 1468,
+          "alt": "Foto 17 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/17-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/17-1280.jpg",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/makro/17-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1468
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/17-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/17-1280.webp",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/makro/17-2200.webp",
+              "breite": 2200,
+              "hoehe": 1468
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "breite": 1467,
+          "hoehe": 2200,
+          "alt": "Foto 18 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/18-640.jpg",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/18-1280.jpg",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/18-2200.jpg",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/18-640.webp",
+              "breite": 427,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/makro/18-1280.webp",
+              "breite": 853,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/makro/18-2200.webp",
+              "breite": 1467,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "breite": 2200,
+          "hoehe": 1468,
+          "alt": "Foto 19 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/19-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/19-1280.jpg",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/makro/19-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1468
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/19-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/19-1280.webp",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/makro/19-2200.webp",
+              "breite": 2200,
+              "hoehe": 1468
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "breite": 2200,
+          "hoehe": 1468,
+          "alt": "Foto 20 aus der Galerie Makro",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/makro/20-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/20-1280.jpg",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/makro/20-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1468
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/makro/20-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/makro/20-1280.webp",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/makro/20-2200.webp",
+              "breite": 2200,
+              "hoehe": 1468
             }
           ]
         }
@@ -629,248 +2187,207 @@
       "titel": "Menschen und Porträt",
       "bilder": [
         {
-          "id": "platzhalter-01",
+          "id": "01",
           "breite": 2200,
-          "hoehe": 1650,
-          "alt": "Abstrakter Farbverlauf in Sand, Rosé und Beige (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 1 – wird später durch ein eigenes Foto ersetzt",
+          "hoehe": 1646,
+          "alt": "Foto 1 aus der Galerie Menschen und Porträt",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-01-640.jpg",
+              "pfad": "bilder/menschen-und-portraet/01-640.jpg",
               "breite": 640,
-              "hoehe": 480
+              "hoehe": 479
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-01-1280.jpg",
+              "pfad": "bilder/menschen-und-portraet/01-1280.jpg",
               "breite": 1280,
-              "hoehe": 960
+              "hoehe": 958
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-01-2200.jpg",
+              "pfad": "bilder/menschen-und-portraet/01-2200.jpg",
               "breite": 2200,
-              "hoehe": 1650
+              "hoehe": 1646
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-01-640.webp",
+              "pfad": "bilder/menschen-und-portraet/01-640.webp",
               "breite": 640,
-              "hoehe": 480
+              "hoehe": 479
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-01-1280.webp",
+              "pfad": "bilder/menschen-und-portraet/01-1280.webp",
               "breite": 1280,
-              "hoehe": 960
+              "hoehe": 958
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-01-2200.webp",
+              "pfad": "bilder/menschen-und-portraet/01-2200.webp",
               "breite": 2200,
-              "hoehe": 1650
+              "hoehe": 1646
             }
           ]
         },
         {
-          "id": "platzhalter-02",
-          "breite": 1760,
-          "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Rosé, Grau und Braun (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 2 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-02-640.jpg",
-              "breite": 512,
-              "hoehe": 640
-            },
-            {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-02-1280.jpg",
-              "breite": 1024,
-              "hoehe": 1280
-            },
-            {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-02-2200.jpg",
-              "breite": 1760,
-              "hoehe": 2200
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-02-640.webp",
-              "breite": 512,
-              "hoehe": 640
-            },
-            {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-02-1280.webp",
-              "breite": 1024,
-              "hoehe": 1280
-            },
-            {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-02-2200.webp",
-              "breite": 1760,
-              "hoehe": 2200
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-03",
+          "id": "02",
           "breite": 1467,
           "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Braun, Sand und Rosé (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 3 – wird später durch ein eigenes Foto ersetzt",
+          "alt": "Foto 2 aus der Galerie Menschen und Porträt",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-03-640.jpg",
+              "pfad": "bilder/menschen-und-portraet/02-640.jpg",
               "breite": 427,
               "hoehe": 640
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-03-1280.jpg",
+              "pfad": "bilder/menschen-und-portraet/02-1280.jpg",
               "breite": 853,
               "hoehe": 1280
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-03-2200.jpg",
+              "pfad": "bilder/menschen-und-portraet/02-2200.jpg",
               "breite": 1467,
               "hoehe": 2200
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-03-640.webp",
+              "pfad": "bilder/menschen-und-portraet/02-640.webp",
               "breite": 427,
               "hoehe": 640
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-03-1280.webp",
+              "pfad": "bilder/menschen-und-portraet/02-1280.webp",
               "breite": 853,
               "hoehe": 1280
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-03-2200.webp",
+              "pfad": "bilder/menschen-und-portraet/02-2200.webp",
               "breite": 1467,
               "hoehe": 2200
             }
           ]
         },
         {
-          "id": "platzhalter-04",
-          "breite": 2200,
+          "id": "03",
+          "breite": 1467,
           "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Braun, Rosé und Grau (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 4 – wird später durch ein eigenes Foto ersetzt",
+          "alt": "Foto 3 aus der Galerie Menschen und Porträt",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-04-640.jpg",
-              "breite": 640,
+              "pfad": "bilder/menschen-und-portraet/03-640.jpg",
+              "breite": 427,
               "hoehe": 640
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-04-1280.jpg",
-              "breite": 1280,
+              "pfad": "bilder/menschen-und-portraet/03-1280.jpg",
+              "breite": 853,
               "hoehe": 1280
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-04-2200.jpg",
-              "breite": 2200,
+              "pfad": "bilder/menschen-und-portraet/03-2200.jpg",
+              "breite": 1467,
               "hoehe": 2200
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-04-640.webp",
-              "breite": 640,
+              "pfad": "bilder/menschen-und-portraet/03-640.webp",
+              "breite": 427,
               "hoehe": 640
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-04-1280.webp",
-              "breite": 1280,
+              "pfad": "bilder/menschen-und-portraet/03-1280.webp",
+              "breite": 853,
               "hoehe": 1280
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-04-2200.webp",
-              "breite": 2200,
+              "pfad": "bilder/menschen-und-portraet/03-2200.webp",
+              "breite": 1467,
               "hoehe": 2200
             }
           ]
         },
         {
-          "id": "platzhalter-05",
-          "breite": 2200,
-          "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Beige, Braun und Grau (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 5 – wird später durch ein eigenes Foto ersetzt",
+          "id": "04",
+          "breite": 1600,
+          "hoehe": 1200,
+          "alt": "Foto 4 aus der Galerie Menschen und Porträt",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-05-640.jpg",
+              "pfad": "bilder/menschen-und-portraet/04-640.jpg",
               "breite": 640,
-              "hoehe": 640
+              "hoehe": 480
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-05-1280.jpg",
+              "pfad": "bilder/menschen-und-portraet/04-1280.jpg",
               "breite": 1280,
-              "hoehe": 1280
+              "hoehe": 960
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-05-2200.jpg",
-              "breite": 2200,
-              "hoehe": 2200
+              "pfad": "bilder/menschen-und-portraet/04-1600.jpg",
+              "breite": 1600,
+              "hoehe": 1200
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-05-640.webp",
+              "pfad": "bilder/menschen-und-portraet/04-640.webp",
               "breite": 640,
-              "hoehe": 640
+              "hoehe": 480
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-05-1280.webp",
+              "pfad": "bilder/menschen-und-portraet/04-1280.webp",
               "breite": 1280,
-              "hoehe": 1280
+              "hoehe": 960
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-05-2200.webp",
-              "breite": 2200,
-              "hoehe": 2200
+              "pfad": "bilder/menschen-und-portraet/04-1600.webp",
+              "breite": 1600,
+              "hoehe": 1200
             }
           ]
         },
         {
-          "id": "platzhalter-06",
+          "id": "05",
           "breite": 2200,
-          "hoehe": 1238,
-          "alt": "Abstrakter Farbverlauf in Beige, Grau und Rosé (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 6 – wird später durch ein eigenes Foto ersetzt",
+          "hoehe": 1468,
+          "alt": "Foto 5 aus der Galerie Menschen und Porträt",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-06-640.jpg",
+              "pfad": "bilder/menschen-und-portraet/05-640.jpg",
               "breite": 640,
-              "hoehe": 360
+              "hoehe": 427
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-06-1280.jpg",
+              "pfad": "bilder/menschen-und-portraet/05-1280.jpg",
               "breite": 1280,
-              "hoehe": 720
+              "hoehe": 854
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-06-2200.jpg",
+              "pfad": "bilder/menschen-und-portraet/05-2200.jpg",
               "breite": 2200,
-              "hoehe": 1238
+              "hoehe": 1468
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-06-640.webp",
+              "pfad": "bilder/menschen-und-portraet/05-640.webp",
               "breite": 640,
-              "hoehe": 360
+              "hoehe": 427
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-06-1280.webp",
+              "pfad": "bilder/menschen-und-portraet/05-1280.webp",
               "breite": 1280,
-              "hoehe": 720
+              "hoehe": 854
             },
             {
-              "pfad": "bilder/menschen-und-portraet/platzhalter-06-2200.webp",
+              "pfad": "bilder/menschen-und-portraet/05-2200.webp",
               "breite": 2200,
-              "hoehe": 1238
+              "hoehe": 1468
             }
           ]
         }
@@ -880,371 +2397,535 @@
       "titel": "Nacht und Licht",
       "bilder": [
         {
-          "id": "platzhalter-01",
+          "id": "01",
           "breite": 2200,
-          "hoehe": 1650,
-          "alt": "Abstrakter Farbverlauf in Dunkelblau, Violett und Cyan (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 1 – wird später durch ein eigenes Foto ersetzt",
+          "hoehe": 1468,
+          "alt": "Foto 1 aus der Galerie Nacht und Licht",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-01-640.jpg",
+              "pfad": "bilder/nacht-und-licht/01-640.jpg",
               "breite": 640,
-              "hoehe": 480
+              "hoehe": 427
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-01-1280.jpg",
+              "pfad": "bilder/nacht-und-licht/01-1280.jpg",
               "breite": 1280,
-              "hoehe": 960
+              "hoehe": 854
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-01-2200.jpg",
+              "pfad": "bilder/nacht-und-licht/01-2200.jpg",
               "breite": 2200,
-              "hoehe": 1650
+              "hoehe": 1468
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-01-640.webp",
+              "pfad": "bilder/nacht-und-licht/01-640.webp",
               "breite": 640,
-              "hoehe": 480
+              "hoehe": 427
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-01-1280.webp",
+              "pfad": "bilder/nacht-und-licht/01-1280.webp",
               "breite": 1280,
-              "hoehe": 960
+              "hoehe": 854
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-01-2200.webp",
+              "pfad": "bilder/nacht-und-licht/01-2200.webp",
               "breite": 2200,
-              "hoehe": 1650
+              "hoehe": 1468
             }
           ]
         },
         {
-          "id": "platzhalter-02",
-          "breite": 1760,
-          "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Rot, Cyan und Gelb (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 2 – wird später durch ein eigenes Foto ersetzt",
+          "id": "02",
+          "breite": 2200,
+          "hoehe": 1183,
+          "alt": "Foto 2 aus der Galerie Nacht und Licht",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-02-640.jpg",
-              "breite": 512,
-              "hoehe": 640
+              "pfad": "bilder/nacht-und-licht/02-640.jpg",
+              "breite": 640,
+              "hoehe": 344
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-02-1280.jpg",
-              "breite": 1024,
-              "hoehe": 1280
+              "pfad": "bilder/nacht-und-licht/02-1280.jpg",
+              "breite": 1280,
+              "hoehe": 688
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-02-2200.jpg",
-              "breite": 1760,
-              "hoehe": 2200
+              "pfad": "bilder/nacht-und-licht/02-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1183
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-02-640.webp",
-              "breite": 512,
-              "hoehe": 640
+              "pfad": "bilder/nacht-und-licht/02-640.webp",
+              "breite": 640,
+              "hoehe": 344
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-02-1280.webp",
-              "breite": 1024,
-              "hoehe": 1280
+              "pfad": "bilder/nacht-und-licht/02-1280.webp",
+              "breite": 1280,
+              "hoehe": 688
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-02-2200.webp",
-              "breite": 1760,
-              "hoehe": 2200
+              "pfad": "bilder/nacht-und-licht/02-2200.webp",
+              "breite": 2200,
+              "hoehe": 1183
             }
           ]
         },
         {
-          "id": "platzhalter-03",
+          "id": "03",
           "breite": 2200,
           "hoehe": 1467,
-          "alt": "Abstrakter Farbverlauf in Cyan, Violett und Dunkelblau (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 3 – wird später durch ein eigenes Foto ersetzt",
+          "alt": "Foto 3 aus der Galerie Nacht und Licht",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-03-640.jpg",
+              "pfad": "bilder/nacht-und-licht/03-640.jpg",
               "breite": 640,
               "hoehe": 427
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-03-1280.jpg",
+              "pfad": "bilder/nacht-und-licht/03-1280.jpg",
               "breite": 1280,
               "hoehe": 853
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-03-2200.jpg",
+              "pfad": "bilder/nacht-und-licht/03-2200.jpg",
               "breite": 2200,
               "hoehe": 1467
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-03-640.webp",
+              "pfad": "bilder/nacht-und-licht/03-640.webp",
               "breite": 640,
               "hoehe": 427
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-03-1280.webp",
+              "pfad": "bilder/nacht-und-licht/03-1280.webp",
               "breite": 1280,
               "hoehe": 853
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-03-2200.webp",
+              "pfad": "bilder/nacht-und-licht/03-2200.webp",
               "breite": 2200,
               "hoehe": 1467
             }
           ]
         },
         {
-          "id": "platzhalter-04",
+          "id": "04",
           "breite": 2200,
-          "hoehe": 1238,
-          "alt": "Abstrakter Farbverlauf in Violett, Gelb und Rot (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 4 – wird später durch ein eigenes Foto ersetzt",
+          "hoehe": 1946,
+          "alt": "Foto 4 aus der Galerie Nacht und Licht",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-04-640.jpg",
+              "pfad": "bilder/nacht-und-licht/04-640.jpg",
               "breite": 640,
-              "hoehe": 360
+              "hoehe": 566
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-04-1280.jpg",
+              "pfad": "bilder/nacht-und-licht/04-1280.jpg",
               "breite": 1280,
-              "hoehe": 720
+              "hoehe": 1132
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-04-2200.jpg",
+              "pfad": "bilder/nacht-und-licht/04-2200.jpg",
               "breite": 2200,
-              "hoehe": 1238
+              "hoehe": 1946
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-04-640.webp",
+              "pfad": "bilder/nacht-und-licht/04-640.webp",
               "breite": 640,
-              "hoehe": 360
+              "hoehe": 566
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-04-1280.webp",
+              "pfad": "bilder/nacht-und-licht/04-1280.webp",
               "breite": 1280,
-              "hoehe": 720
+              "hoehe": 1132
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-04-2200.webp",
+              "pfad": "bilder/nacht-und-licht/04-2200.webp",
               "breite": 2200,
-              "hoehe": 1238
+              "hoehe": 1946
             }
           ]
         },
         {
-          "id": "platzhalter-05",
-          "breite": 2200,
-          "hoehe": 1238,
-          "alt": "Abstrakter Farbverlauf in Rot, Violett und Cyan (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 5 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/nacht-und-licht/platzhalter-05-640.jpg",
-              "breite": 640,
-              "hoehe": 360
-            },
-            {
-              "pfad": "bilder/nacht-und-licht/platzhalter-05-1280.jpg",
-              "breite": 1280,
-              "hoehe": 720
-            },
-            {
-              "pfad": "bilder/nacht-und-licht/platzhalter-05-2200.jpg",
-              "breite": 2200,
-              "hoehe": 1238
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/nacht-und-licht/platzhalter-05-640.webp",
-              "breite": 640,
-              "hoehe": 360
-            },
-            {
-              "pfad": "bilder/nacht-und-licht/platzhalter-05-1280.webp",
-              "breite": 1280,
-              "hoehe": 720
-            },
-            {
-              "pfad": "bilder/nacht-und-licht/platzhalter-05-2200.webp",
-              "breite": 2200,
-              "hoehe": 1238
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-06",
-          "breite": 2200,
-          "hoehe": 1238,
-          "alt": "Abstrakter Farbverlauf in Rot, Cyan und Gelb (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 6 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/nacht-und-licht/platzhalter-06-640.jpg",
-              "breite": 640,
-              "hoehe": 360
-            },
-            {
-              "pfad": "bilder/nacht-und-licht/platzhalter-06-1280.jpg",
-              "breite": 1280,
-              "hoehe": 720
-            },
-            {
-              "pfad": "bilder/nacht-und-licht/platzhalter-06-2200.jpg",
-              "breite": 2200,
-              "hoehe": 1238
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/nacht-und-licht/platzhalter-06-640.webp",
-              "breite": 640,
-              "hoehe": 360
-            },
-            {
-              "pfad": "bilder/nacht-und-licht/platzhalter-06-1280.webp",
-              "breite": 1280,
-              "hoehe": 720
-            },
-            {
-              "pfad": "bilder/nacht-und-licht/platzhalter-06-2200.webp",
-              "breite": 2200,
-              "hoehe": 1238
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-07",
+          "id": "05",
           "breite": 2200,
           "hoehe": 1650,
-          "alt": "Abstrakter Farbverlauf in Violett, Gelb und Dunkelblau (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 7 – wird später durch ein eigenes Foto ersetzt",
+          "alt": "Foto 5 aus der Galerie Nacht und Licht",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-07-640.jpg",
+              "pfad": "bilder/nacht-und-licht/05-640.jpg",
               "breite": 640,
               "hoehe": 480
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-07-1280.jpg",
+              "pfad": "bilder/nacht-und-licht/05-1280.jpg",
               "breite": 1280,
               "hoehe": 960
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-07-2200.jpg",
+              "pfad": "bilder/nacht-und-licht/05-2200.jpg",
               "breite": 2200,
               "hoehe": 1650
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-07-640.webp",
+              "pfad": "bilder/nacht-und-licht/05-640.webp",
               "breite": 640,
               "hoehe": 480
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-07-1280.webp",
+              "pfad": "bilder/nacht-und-licht/05-1280.webp",
               "breite": 1280,
               "hoehe": 960
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-07-2200.webp",
+              "pfad": "bilder/nacht-und-licht/05-2200.webp",
               "breite": 2200,
               "hoehe": 1650
             }
           ]
         },
         {
-          "id": "platzhalter-08",
-          "breite": 1467,
-          "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Violett, Gelb und Rot (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 8 – wird später durch ein eigenes Foto ersetzt",
+          "id": "06",
+          "breite": 2048,
+          "hoehe": 1298,
+          "alt": "Foto 6 aus der Galerie Nacht und Licht",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-08-640.jpg",
-              "breite": 427,
-              "hoehe": 640
+              "pfad": "bilder/nacht-und-licht/06-640.jpg",
+              "breite": 640,
+              "hoehe": 406
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-08-1280.jpg",
-              "breite": 853,
-              "hoehe": 1280
+              "pfad": "bilder/nacht-und-licht/06-1280.jpg",
+              "breite": 1280,
+              "hoehe": 811
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-08-2200.jpg",
-              "breite": 1467,
-              "hoehe": 2200
+              "pfad": "bilder/nacht-und-licht/06-2048.jpg",
+              "breite": 2048,
+              "hoehe": 1298
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-08-640.webp",
-              "breite": 427,
-              "hoehe": 640
+              "pfad": "bilder/nacht-und-licht/06-640.webp",
+              "breite": 640,
+              "hoehe": 406
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-08-1280.webp",
-              "breite": 853,
-              "hoehe": 1280
+              "pfad": "bilder/nacht-und-licht/06-1280.webp",
+              "breite": 1280,
+              "hoehe": 811
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-08-2200.webp",
-              "breite": 1467,
-              "hoehe": 2200
+              "pfad": "bilder/nacht-und-licht/06-2048.webp",
+              "breite": 2048,
+              "hoehe": 1298
             }
           ]
         },
         {
-          "id": "platzhalter-09",
+          "id": "07",
+          "breite": 2200,
+          "hoehe": 1468,
+          "alt": "Foto 7 aus der Galerie Nacht und Licht",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/nacht-und-licht/07-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/07-1280.jpg",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/07-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1468
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/nacht-und-licht/07-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/07-1280.webp",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/07-2200.webp",
+              "breite": 2200,
+              "hoehe": 1468
+            }
+          ]
+        },
+        {
+          "id": "08",
           "breite": 2200,
           "hoehe": 1650,
-          "alt": "Abstrakter Farbverlauf in Dunkelblau, Violett und Rot (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 9 – wird später durch ein eigenes Foto ersetzt",
+          "alt": "Foto 8 aus der Galerie Nacht und Licht",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-09-640.jpg",
+              "pfad": "bilder/nacht-und-licht/08-640.jpg",
               "breite": 640,
               "hoehe": 480
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-09-1280.jpg",
+              "pfad": "bilder/nacht-und-licht/08-1280.jpg",
               "breite": 1280,
               "hoehe": 960
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-09-2200.jpg",
+              "pfad": "bilder/nacht-und-licht/08-2200.jpg",
               "breite": 2200,
               "hoehe": 1650
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-09-640.webp",
+              "pfad": "bilder/nacht-und-licht/08-640.webp",
               "breite": 640,
               "hoehe": 480
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-09-1280.webp",
+              "pfad": "bilder/nacht-und-licht/08-1280.webp",
               "breite": 1280,
               "hoehe": 960
             },
             {
-              "pfad": "bilder/nacht-und-licht/platzhalter-09-2200.webp",
+              "pfad": "bilder/nacht-und-licht/08-2200.webp",
               "breite": 2200,
               "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Foto 9 aus der Galerie Nacht und Licht",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/nacht-und-licht/09-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/09-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/09-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/nacht-und-licht/09-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/09-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/09-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "breite": 2200,
+          "hoehe": 1468,
+          "alt": "Foto 10 aus der Galerie Nacht und Licht",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/nacht-und-licht/10-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/10-1280.jpg",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/10-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1468
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/nacht-und-licht/10-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/10-1280.webp",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/10-2200.webp",
+              "breite": 2200,
+              "hoehe": 1468
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "breite": 2200,
+          "hoehe": 1431,
+          "alt": "Foto 11 aus der Galerie Nacht und Licht",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/nacht-und-licht/11-640.jpg",
+              "breite": 640,
+              "hoehe": 416
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/11-1280.jpg",
+              "breite": 1280,
+              "hoehe": 832
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/11-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1431
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/nacht-und-licht/11-640.webp",
+              "breite": 640,
+              "hoehe": 416
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/11-1280.webp",
+              "breite": 1280,
+              "hoehe": 832
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/11-2200.webp",
+              "breite": 2200,
+              "hoehe": 1431
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "breite": 2200,
+          "hoehe": 1467,
+          "alt": "Foto 12 aus der Galerie Nacht und Licht",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/nacht-und-licht/12-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/12-1280.jpg",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/12-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/nacht-und-licht/12-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/12-1280.webp",
+              "breite": 1280,
+              "hoehe": 853
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/12-2200.webp",
+              "breite": 2200,
+              "hoehe": 1467
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "breite": 2200,
+          "hoehe": 1468,
+          "alt": "Foto 13 aus der Galerie Nacht und Licht",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/nacht-und-licht/13-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/13-1280.jpg",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/13-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1468
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/nacht-und-licht/13-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/13-1280.webp",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/nacht-und-licht/13-2200.webp",
+              "breite": 2200,
+              "hoehe": 1468
             }
           ]
         }
@@ -1254,330 +2935,699 @@
       "titel": "Natur und Tiere",
       "bilder": [
         {
-          "id": "platzhalter-01",
-          "breite": 1760,
+          "id": "01",
+          "breite": 1650,
           "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Rot, Braun und Dunkelgrün (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 1 – wird später durch ein eigenes Foto ersetzt",
+          "alt": "Foto 1 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-01-640.jpg",
-              "breite": 512,
+              "pfad": "bilder/natur-und-tiere/01-640.jpg",
+              "breite": 480,
               "hoehe": 640
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-01-1280.jpg",
-              "breite": 1024,
+              "pfad": "bilder/natur-und-tiere/01-1280.jpg",
+              "breite": 960,
               "hoehe": 1280
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-01-2200.jpg",
-              "breite": 1760,
+              "pfad": "bilder/natur-und-tiere/01-2200.jpg",
+              "breite": 1650,
               "hoehe": 2200
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-01-640.webp",
-              "breite": 512,
+              "pfad": "bilder/natur-und-tiere/01-640.webp",
+              "breite": 480,
               "hoehe": 640
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-01-1280.webp",
-              "breite": 1024,
+              "pfad": "bilder/natur-und-tiere/01-1280.webp",
+              "breite": 960,
               "hoehe": 1280
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-01-2200.webp",
-              "breite": 1760,
+              "pfad": "bilder/natur-und-tiere/01-2200.webp",
+              "breite": 1650,
               "hoehe": 2200
             }
           ]
         },
         {
-          "id": "platzhalter-02",
+          "id": "02",
           "breite": 2200,
-          "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Gelb, Grün und Dunkelgrün (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 2 – wird später durch ein eigenes Foto ersetzt",
+          "hoehe": 2127,
+          "alt": "Foto 2 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-02-640.jpg",
+              "pfad": "bilder/natur-und-tiere/02-640.jpg",
               "breite": 640,
-              "hoehe": 640
+              "hoehe": 619
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-02-1280.jpg",
+              "pfad": "bilder/natur-und-tiere/02-1280.jpg",
               "breite": 1280,
-              "hoehe": 1280
+              "hoehe": 1237
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-02-2200.jpg",
+              "pfad": "bilder/natur-und-tiere/02-2200.jpg",
               "breite": 2200,
-              "hoehe": 2200
+              "hoehe": 2127
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-02-640.webp",
+              "pfad": "bilder/natur-und-tiere/02-640.webp",
               "breite": 640,
-              "hoehe": 640
+              "hoehe": 619
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-02-1280.webp",
+              "pfad": "bilder/natur-und-tiere/02-1280.webp",
               "breite": 1280,
-              "hoehe": 1280
+              "hoehe": 1237
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-02-2200.webp",
+              "pfad": "bilder/natur-und-tiere/02-2200.webp",
               "breite": 2200,
-              "hoehe": 2200
+              "hoehe": 2127
             }
           ]
         },
         {
-          "id": "platzhalter-03",
+          "id": "03",
+          "breite": 1200,
+          "hoehe": 1600,
+          "alt": "Foto 3 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/03-640.jpg",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/03-1280.jpg",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/03-1600.jpg",
+              "breite": 1200,
+              "hoehe": 1600
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/03-640.webp",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/03-1280.webp",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/03-1600.webp",
+              "breite": 1200,
+              "hoehe": 1600
+            }
+          ]
+        },
+        {
+          "id": "04",
           "breite": 2200,
-          "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Rot, Dunkelgrün und Grün (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 3 – wird später durch ein eigenes Foto ersetzt",
+          "hoehe": 1468,
+          "alt": "Foto 4 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-03-640.jpg",
-              "breite": 640,
-              "hoehe": 640
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-03-1280.jpg",
-              "breite": 1280,
-              "hoehe": 1280
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-03-2200.jpg",
-              "breite": 2200,
-              "hoehe": 2200
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-03-640.webp",
-              "breite": 640,
-              "hoehe": 640
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-03-1280.webp",
-              "breite": 1280,
-              "hoehe": 1280
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-03-2200.webp",
-              "breite": 2200,
-              "hoehe": 2200
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-04",
-          "breite": 1760,
-          "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Grün, Rot und Dunkelgrün (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 4 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-04-640.jpg",
-              "breite": 512,
-              "hoehe": 640
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-04-1280.jpg",
-              "breite": 1024,
-              "hoehe": 1280
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-04-2200.jpg",
-              "breite": 1760,
-              "hoehe": 2200
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-04-640.webp",
-              "breite": 512,
-              "hoehe": 640
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-04-1280.webp",
-              "breite": 1024,
-              "hoehe": 1280
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-04-2200.webp",
-              "breite": 1760,
-              "hoehe": 2200
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-05",
-          "breite": 2200,
-          "hoehe": 1238,
-          "alt": "Abstrakter Farbverlauf in Dunkelgrün, Grün und Braun (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 5 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-05-640.jpg",
-              "breite": 640,
-              "hoehe": 360
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-05-1280.jpg",
-              "breite": 1280,
-              "hoehe": 720
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-05-2200.jpg",
-              "breite": 2200,
-              "hoehe": 1238
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-05-640.webp",
-              "breite": 640,
-              "hoehe": 360
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-05-1280.webp",
-              "breite": 1280,
-              "hoehe": 720
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-05-2200.webp",
-              "breite": 2200,
-              "hoehe": 1238
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-06",
-          "breite": 2200,
-          "hoehe": 1467,
-          "alt": "Abstrakter Farbverlauf in Grün, Rot und Dunkelgrün (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 6 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-06-640.jpg",
+              "pfad": "bilder/natur-und-tiere/04-640.jpg",
               "breite": 640,
               "hoehe": 427
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-06-1280.jpg",
+              "pfad": "bilder/natur-und-tiere/04-1280.jpg",
               "breite": 1280,
-              "hoehe": 853
+              "hoehe": 854
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-06-2200.jpg",
+              "pfad": "bilder/natur-und-tiere/04-2200.jpg",
               "breite": 2200,
-              "hoehe": 1467
+              "hoehe": 1468
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-06-640.webp",
+              "pfad": "bilder/natur-und-tiere/04-640.webp",
               "breite": 640,
               "hoehe": 427
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-06-1280.webp",
+              "pfad": "bilder/natur-und-tiere/04-1280.webp",
               "breite": 1280,
-              "hoehe": 853
+              "hoehe": 854
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-06-2200.webp",
+              "pfad": "bilder/natur-und-tiere/04-2200.webp",
               "breite": 2200,
-              "hoehe": 1467
+              "hoehe": 1468
             }
           ]
         },
         {
-          "id": "platzhalter-07",
-          "breite": 2200,
-          "hoehe": 1467,
-          "alt": "Abstrakter Farbverlauf in Gelb, Rot und Dunkelgrün (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 7 – wird später durch ein eigenes Foto ersetzt",
-          "jpeg": [
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-07-640.jpg",
-              "breite": 640,
-              "hoehe": 427
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-07-1280.jpg",
-              "breite": 1280,
-              "hoehe": 853
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-07-2200.jpg",
-              "breite": 2200,
-              "hoehe": 1467
-            }
-          ],
-          "webp": [
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-07-640.webp",
-              "breite": 640,
-              "hoehe": 427
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-07-1280.webp",
-              "breite": 1280,
-              "hoehe": 853
-            },
-            {
-              "pfad": "bilder/natur-und-tiere/platzhalter-07-2200.webp",
-              "breite": 2200,
-              "hoehe": 1467
-            }
-          ]
-        },
-        {
-          "id": "platzhalter-08",
+          "id": "05",
           "breite": 1467,
           "hoehe": 2200,
-          "alt": "Abstrakter Farbverlauf in Gelb, Braun und Rot (Platzhalterbild)",
-          "unterschrift": "Platzhalterbild 8 – wird später durch ein eigenes Foto ersetzt",
+          "alt": "Foto 5 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
           "jpeg": [
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-08-640.jpg",
+              "pfad": "bilder/natur-und-tiere/05-640.jpg",
               "breite": 427,
               "hoehe": 640
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-08-1280.jpg",
+              "pfad": "bilder/natur-und-tiere/05-1280.jpg",
               "breite": 853,
               "hoehe": 1280
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-08-2200.jpg",
+              "pfad": "bilder/natur-und-tiere/05-2200.jpg",
               "breite": 1467,
               "hoehe": 2200
             }
           ],
           "webp": [
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-08-640.webp",
+              "pfad": "bilder/natur-und-tiere/05-640.webp",
               "breite": 427,
               "hoehe": 640
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-08-1280.webp",
+              "pfad": "bilder/natur-und-tiere/05-1280.webp",
               "breite": 853,
               "hoehe": 1280
             },
             {
-              "pfad": "bilder/natur-und-tiere/platzhalter-08-2200.webp",
+              "pfad": "bilder/natur-und-tiere/05-2200.webp",
               "breite": 1467,
               "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "06",
+          "breite": 1650,
+          "hoehe": 2200,
+          "alt": "Foto 6 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/06-640.jpg",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/06-1280.jpg",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/06-2200.jpg",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/06-640.webp",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/06-1280.webp",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/06-2200.webp",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Foto 7 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/07-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/07-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/07-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/07-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/07-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/07-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "08",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Foto 8 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/08-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/08-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/08-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/08-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/08-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/08-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "breite": 2200,
+          "hoehe": 1667,
+          "alt": "Foto 9 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/09-640.jpg",
+              "breite": 640,
+              "hoehe": 485
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/09-1280.jpg",
+              "breite": 1280,
+              "hoehe": 970
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/09-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1667
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/09-640.webp",
+              "breite": 640,
+              "hoehe": 485
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/09-1280.webp",
+              "breite": 1280,
+              "hoehe": 970
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/09-2200.webp",
+              "breite": 2200,
+              "hoehe": 1667
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "breite": 2200,
+          "hoehe": 1470,
+          "alt": "Foto 10 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/10-640.jpg",
+              "breite": 640,
+              "hoehe": 428
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/10-1280.jpg",
+              "breite": 1280,
+              "hoehe": 855
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/10-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1470
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/10-640.webp",
+              "breite": 640,
+              "hoehe": 428
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/10-1280.webp",
+              "breite": 1280,
+              "hoehe": 855
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/10-2200.webp",
+              "breite": 2200,
+              "hoehe": 1470
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "breite": 1650,
+          "hoehe": 2200,
+          "alt": "Foto 11 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/11-640.jpg",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/11-1280.jpg",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/11-2200.jpg",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/11-640.webp",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/11-1280.webp",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/11-2200.webp",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "breite": 1650,
+          "hoehe": 2200,
+          "alt": "Foto 12 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/12-640.jpg",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/12-1280.jpg",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/12-2200.jpg",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/12-640.webp",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/12-1280.webp",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/12-2200.webp",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "breite": 2200,
+          "hoehe": 1468,
+          "alt": "Foto 13 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/13-640.jpg",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/13-1280.jpg",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/13-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1468
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/13-640.webp",
+              "breite": 640,
+              "hoehe": 427
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/13-1280.webp",
+              "breite": 1280,
+              "hoehe": 854
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/13-2200.webp",
+              "breite": 2200,
+              "hoehe": 1468
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "breite": 990,
+          "hoehe": 2200,
+          "alt": "Foto 14 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/14-640.jpg",
+              "breite": 288,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/14-1280.jpg",
+              "breite": 576,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/14-2200.jpg",
+              "breite": 990,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/14-640.webp",
+              "breite": 288,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/14-1280.webp",
+              "breite": 576,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/14-2200.webp",
+              "breite": 990,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "breite": 2200,
+          "hoehe": 1792,
+          "alt": "Foto 15 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/15-640.jpg",
+              "breite": 640,
+              "hoehe": 521
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/15-1280.jpg",
+              "breite": 1280,
+              "hoehe": 1043
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/15-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1792
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/15-640.webp",
+              "breite": 640,
+              "hoehe": 521
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/15-1280.webp",
+              "breite": 1280,
+              "hoehe": 1043
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/15-2200.webp",
+              "breite": 2200,
+              "hoehe": 1792
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "breite": 1650,
+          "hoehe": 2200,
+          "alt": "Foto 16 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/16-640.jpg",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/16-1280.jpg",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/16-2200.jpg",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/16-640.webp",
+              "breite": 480,
+              "hoehe": 640
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/16-1280.webp",
+              "breite": 960,
+              "hoehe": 1280
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/16-2200.webp",
+              "breite": 1650,
+              "hoehe": 2200
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "breite": 2200,
+          "hoehe": 1650,
+          "alt": "Foto 17 aus der Galerie Natur und Tiere",
+          "unterschrift": "",
+          "jpeg": [
+            {
+              "pfad": "bilder/natur-und-tiere/17-640.jpg",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/17-1280.jpg",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/17-2200.jpg",
+              "breite": 2200,
+              "hoehe": 1650
+            }
+          ],
+          "webp": [
+            {
+              "pfad": "bilder/natur-und-tiere/17-640.webp",
+              "breite": 640,
+              "hoehe": 480
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/17-1280.webp",
+              "breite": 1280,
+              "hoehe": 960
+            },
+            {
+              "pfad": "bilder/natur-und-tiere/17-2200.webp",
+              "breite": 2200,
+              "hoehe": 1650
             }
           ]
         }
