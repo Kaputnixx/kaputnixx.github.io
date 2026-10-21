@@ -4,10 +4,11 @@
   <meta charset="utf-8">
   <script>
     // 404-Seiten werden unter beliebigen Adressen ausgeliefert: Basisadresse setzen,
-    // damit relative Pfade stimmen (Projektseite auf github.io: /<Repo>/, sonst /).
+    // damit relative Pfade stimmen (Projektseite auf github.io: /<Repo>/; eigene Seite specktrumgrafie.github.io und eigene Domains: /).
     (function () {
       var teile = location.pathname.split("/");
-      var basis = location.hostname.slice(-10) === ".github.io" && teile[1] ? "/" + teile[1] + "/" : "/";
+      var wurzel = location.hostname === "specktrumgrafie.github.io";
+      var basis = !wurzel && location.hostname.slice(-10) === ".github.io" && teile[1] ? "/" + teile[1] + "/" : "/";
       var b = document.createElement("base");
       b.href = basis;
       document.head.insertBefore(b, document.head.firstChild);
