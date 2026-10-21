@@ -108,7 +108,8 @@ class BauTest(unittest.TestCase):
         self.bauen()
         eins, zwei = self.daten()["galerien"]["test-galerie"]["bilder"]
         self.assertEqual(eins["alt"], "Ein Baum im Nebel")
-        self.assertIn("Beschreibung folgt", zwei["alt"])
+        self.assertNotIn("Beschreibung folgt", zwei["alt"])   # ohne alt.txt: neutraler Text, kein Platzhalter
+        self.assertTrue(zwei["alt"].startswith("Foto 2 aus der Galerie"))
         self.assertEqual(eins["unterschrift"], "")
         self.assertEqual(zwei["unterschrift"], "Zweites Bild")
 

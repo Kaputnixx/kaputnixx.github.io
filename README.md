@@ -74,7 +74,7 @@ python -m pip install pillow
    02-see.jpg: Ein Steg ragt in einen ruhigen Bergsee
    ```
 
-   Ohne Eintrag steht dort „… (Beschreibung folgt)“. Mach die Beschreibungen kurz und sachlich. In `unterschriften.txt` (gleiches Format) stehen Bildunterschriften, die in der Großansicht erscheinen.
+   Ohne Eintrag steht dort ein neutraler Text wie „Foto 3 aus der Galerie Landschaft“. Mach die Beschreibungen kurz und sachlich. In `unterschriften.txt` (gleiches Format) stehen Bildunterschriften, die in der Großansicht erscheinen.
 
 3. Bilder bauen (im Hauptordner des Repos):
 
